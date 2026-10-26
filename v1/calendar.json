@@ -1,0 +1,188 @@
+{
+  "_comment": "Dates clés de la présidentielle 2027. 'date' (et 'endDate' pour une période) au format AAAA-MM-JJ. 'deadline' : date limite légale, l'événement peut avoir lieu avant. Catégories : vote, candidatures, partis, regles, apres.",
+  "updatedAt": "2026-10-25",
+  "firstRoundDate": "2027-04-18",
+  "events": [
+    {
+      "id": "compte-campagne",
+      "date": "2026-04-01",
+      "category": "regles",
+      "title": "Début de la période de financement de la campagne",
+      "description": "Les recettes et dépenses engagées par les candidats à partir de cette date sont retracées dans leur compte de campagne, plafonné et contrôlé.",
+      "source": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-calendrier-dates-inscription-candidats-vote/"
+    },
+    {
+      "id": "designation-retailleau",
+      "date": "2026-04-19",
+      "category": "partis",
+      "title": "Bruno Retailleau désigné candidat des Républicains",
+      "description": "Désignation par un vote des adhérents de LR, sans primaire ouverte. David Lisnard et Laurent Wauquiez plaident toujours pour une primaire élargie à droite.",
+      "source": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027"
+    },
+    {
+      "id": "designation-melenchon",
+      "date": "2026-05-03",
+      "category": "partis",
+      "title": "Jean-Luc Mélenchon désigné candidat de La France insoumise",
+      "description": "Désignation par les élus du mouvement. LFI refuse de participer à une primaire de la gauche.",
+      "source": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027"
+    },
+    {
+      "id": "dates-fixees",
+      "date": "2026-07-01",
+      "category": "vote",
+      "title": "Dates du scrutin fixées en Conseil des ministres",
+      "description": "Premier tour le 18 avril 2027, second tour le 2 mai. La date limite d'inscription sur les listes devient la même en ligne et en mairie.",
+      "source": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-calendrier-dates-inscription-candidats-vote/"
+    },
+    {
+      "id": "appel-le-pen",
+      "date": "2026-07-07",
+      "category": "partis",
+      "title": "Marine Le Pen rendue éligible en appel, elle se déclare candidate",
+      "description": "La cour d'appel ramène sa peine à 45 mois d'inéligibilité dont 30 avec sursis, déjà purgée. Elle annonce sa candidature le soir même et se pourvoit en cassation.",
+      "source": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027"
+    },
+    {
+      "id": "debat-medef",
+      "date": "2026-08-27",
+      "category": "partis",
+      "title": "Premier débat entre candidats (MEDEF – LCI)",
+      "description": "Sept candidats débattent de leurs projets économiques : Attal, Glucksmann, Le Pen, Mélenchon, Philippe, Retailleau et Tondelier.",
+      "source": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027"
+    },
+    {
+      "id": "propagande",
+      "date": "2026-10-01",
+      "category": "regles",
+      "title": "Début des restrictions de propagande électorale",
+      "description": "La publicité commerciale à des fins de propagande électorale est encadrée jusqu'au scrutin, y compris en ligne.",
+      "source": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-calendrier-dates-inscription-candidats-vote/"
+    },
+    {
+      "id": "primaire-ps",
+      "date": "2026-10-09",
+      "endDate": "2026-10-11",
+      "category": "partis",
+      "title": "Primaire PS – Place publique – GRS : Raphaël Glucksmann désigné",
+      "description": "Vote en ligne prolongé jusqu'au 11 octobre après une cyberattaque. Raphaël Glucksmann l'emporte dès le premier tour avec 66,17 % face à Olivier Faure, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel.",
+      "source": "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026"
+    },
+    {
+      "id": "vote-ecologistes",
+      "date": "2026-12-10",
+      "endDate": "2026-12-13",
+      "category": "partis",
+      "title": "Les Écologistes votent sur la candidature de Marine Tondelier",
+      "description": "Les adhérents choisissent entre le maintien de sa candidature et le soutien à un autre candidat de gauche.",
+      "source": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-calendrier-dates-inscription-candidats-vote/"
+    },
+    {
+      "id": "fausses-infos",
+      "date": "2027-01-01",
+      "category": "regles",
+      "title": "Nouvelles règles contre la désinformation",
+      "description": "Procédure judiciaire accélérée contre les fausses informations diffusées massivement. Les plateformes doivent indiquer qui finance les contenus politiques sponsorisés.",
+      "source": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-calendrier-dates-inscription-candidats-vote/"
+    },
+    {
+      "id": "pub-hors-ue",
+      "date": "2027-01-18",
+      "category": "regles",
+      "title": "Interdiction des publicités politiques financées hors UE",
+      "description": "Trois mois avant le scrutin, les annonces politiques payées par des commanditaires établis hors de l'Union européenne sont interdites.",
+      "source": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-calendrier-dates-inscription-candidats-vote/"
+    },
+    {
+      "id": "decret",
+      "date": "2027-02-07",
+      "deadline": true,
+      "category": "candidatures",
+      "title": "Décret de convocation des électeurs",
+      "description": "Sa publication au Journal officiel déclenche l'envoi des formulaires de parrainage aux élus habilités (maires, parlementaires, conseillers départementaux et régionaux…).",
+      "source": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-calendrier-dates-inscription-candidats-vote/"
+    },
+    {
+      "id": "inscription",
+      "date": "2027-03-12",
+      "category": "vote",
+      "title": "Date limite d'inscription sur les listes électorales",
+      "description": "En ligne ou en mairie. Délai prolongé jusqu'au 10e jour avant le scrutin en cas de déménagement, de majorité ou de naturalisation récents.",
+      "source": "https://www.service-public.fr/particuliers/vosdroits/R16396"
+    },
+    {
+      "id": "parrainages",
+      "date": "2027-03-12",
+      "category": "candidatures",
+      "title": "Fin du dépôt des parrainages (18 h)",
+      "description": "Chaque candidat doit réunir 500 signatures d'élus d'au moins 30 départements ou collectivités d'outre-mer, sans plus d'un dixième venant du même. Les déclarations de patrimoine sont à déposer le même jour.",
+      "source": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-calendrier-dates-inscription-candidats-vote/"
+    },
+    {
+      "id": "liste-officielle",
+      "date": "2027-03-16",
+      "category": "candidatures",
+      "title": "Publication de la liste officielle des candidats",
+      "description": "Le Conseil constitutionnel arrête la liste, publiée au Journal officiel. Date prévue ; au plus tard le 26 mars.",
+      "source": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-calendrier-dates-inscription-candidats-vote/"
+    },
+    {
+      "id": "campagne-officielle",
+      "date": "2027-04-05",
+      "category": "regles",
+      "title": "Ouverture de la campagne officielle",
+      "description": "Les médias audiovisuels passent de l'équité à l'égalité stricte du temps de parole entre candidats. Affichage officiel et professions de foi.",
+      "source": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-calendrier-dates-inscription-candidats-vote/"
+    },
+    {
+      "id": "reserve-1",
+      "date": "2027-04-17",
+      "category": "regles",
+      "title": "Fin de la campagne : période de réserve",
+      "description": "À partir de minuit, plus de propagande ni de publication de sondages jusqu'à la fermeture du dernier bureau de vote.",
+      "source": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-calendrier-dates-inscription-candidats-vote/"
+    },
+    {
+      "id": "premier-tour",
+      "date": "2027-04-18",
+      "category": "vote",
+      "title": "Premier tour",
+      "description": "La veille (samedi 17 avril) en Guadeloupe, Martinique, Guyane, à Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin et en Polynésie française. Aucun résultat avant la fermeture du dernier bureau.",
+      "source": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-calendrier-dates-inscription-candidats-vote/"
+    },
+    {
+      "id": "second-tour",
+      "date": "2027-05-02",
+      "category": "vote",
+      "title": "Second tour",
+      "description": "Entre les deux candidats arrivés en tête, si aucun n'a obtenu la majorité absolue. La veille (samedi 1er mai) dans les mêmes territoires d'outre-mer. Période de réserve à partir du 1er mai à minuit.",
+      "source": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-calendrier-dates-inscription-candidats-vote/"
+    },
+    {
+      "id": "proclamation",
+      "date": "2027-05-12",
+      "deadline": true,
+      "category": "apres",
+      "title": "Proclamation des résultats définitifs",
+      "description": "Par le Conseil constitutionnel, après examen des réclamations.",
+      "source": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-calendrier-dates-inscription-candidats-vote/"
+    },
+    {
+      "id": "passation",
+      "date": "2027-05-13",
+      "deadline": true,
+      "category": "apres",
+      "title": "Fin du mandat d'Emmanuel Macron, passation de pouvoirs",
+      "description": "Le nouveau président ou la nouvelle présidente prend ses fonctions.",
+      "source": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-calendrier-dates-inscription-candidats-vote/"
+    },
+    {
+      "id": "comptes",
+      "date": "2027-07-02",
+      "category": "apres",
+      "title": "Dépôt des comptes de campagne (18 h)",
+      "description": "Publiés au Journal officiel au plus tard le 2 août, puis contrôlés par la Commission nationale des comptes de campagne.",
+      "source": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-calendrier-dates-inscription-candidats-vote/"
+    }
+  ]
+}

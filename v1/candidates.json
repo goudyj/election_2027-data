@@ -1,0 +1,2367 @@
+{
+  "_comment": "Positions de -2 (pas du tout d'accord) à 2 (tout à fait d'accord). 'source' : position appuyée par une source consultée en octobre 2026. 'estimated' : déduite de la ligne du parti ou des votes de son groupe, sans déclaration 2027 trouvée. Question absente : position inconnue ou sources contradictoires, ignorée dans le calcul.",
+  "updatedAt": "2026-10-25",
+  "candidates": [
+    {
+      "id": "le-pen",
+      "name": "Marine Le Pen",
+      "party": "Rassemblement national",
+      "color": "#1B2A55",
+      "website": "https://rassemblementnational.fr/",
+      "program": [
+        {
+          "theme": "Économie & social",
+          "points": [
+            {
+              "text": "Abroger la réforme des retraites de 2023 et revenir à 62 ans",
+              "source": "https://monvote2027.fr/candidat/le-pen"
+            },
+            {
+              "text": "Remplacer l'IFI par un impôt sur la fortune financière",
+              "source": "https://www.france-vote.fr/candidats/marine-le-pen"
+            },
+            {
+              "text": "Baisser la TVA sur l'électricité, le gaz et les carburants de 20 % à 5,5 %",
+              "source": "https://isoloir2027.fr/candidats-presidentielle-2027/marine-le-pen"
+            },
+            {
+              "text": "Contre-budget de 140 Md€ d'économies nettes d'ici 2032",
+              "source": "https://isoloir2027.fr/candidats-presidentielle-2027/marine-le-pen"
+            }
+          ]
+        },
+        {
+          "theme": "Immigration",
+          "points": [
+            {
+              "text": "Référendum constitutionnel : « priorité nationale », suppression du droit du sol et de l'AME",
+              "source": "https://presi2027.fr/candidat/lepen"
+            },
+            {
+              "text": "Expulsion systématique des délinquants étrangers",
+              "source": "https://presi2027.fr/candidat/lepen"
+            }
+          ]
+        },
+        {
+          "theme": "Énergie & agriculture",
+          "points": [
+            {
+              "text": "Construire 6 à 14 nouveaux réacteurs nucléaires",
+              "source": "https://laboussole2027.fr/candidats/le-pen"
+            },
+            {
+              "text": "Moratoire sur l'éolien et démontage progressif des parcs",
+              "source": "https://laboussole2027.fr/candidats/le-pen"
+            },
+            {
+              "text": "Abroger l'interdiction des voitures thermiques neuves en 2035",
+              "source": "https://laboussole2027.fr/candidats/le-pen"
+            },
+            {
+              "text": "Stopper l'inflation des normes agricoles, 80 % de produits français dans les cantines",
+              "source": "https://www.politique-animaux.fr/elevage/marine-le-pen-promet-moins-de-normes-et-plus-d-aides-financieres-l-agriculture-dont-les-fili"
+            }
+          ]
+        },
+        {
+          "theme": "International & défense",
+          "points": [
+            {
+              "text": "Porter le budget de la défense à 3 % du PIB",
+              "source": "https://isoloir2027.fr/candidats-presidentielle-2027/marine-le-pen"
+            },
+            {
+              "text": "Quitter le commandement intégré de l'OTAN en restant dans l'Alliance",
+              "source": "https://www.21news.be/marine-le-pen-veut-sortir-la-france-du-commandement-integre-de-lotan/"
+            },
+            {
+              "text": "Fin de l'aide financière à l'Ukraine, soutien défensif limité",
+              "source": "https://www.france-vote.fr/candidats/marine-le-pen"
+            }
+          ]
+        },
+        {
+          "theme": "Institutions",
+          "points": [
+            {
+              "text": "Proportionnelle intégrale aux législatives",
+              "source": "https://isoloir2027.fr/candidats-presidentielle-2027/marine-le-pen"
+            },
+            {
+              "text": "Recours au référendum, notamment sur l'immigration",
+              "source": "https://isoloir2027.fr/candidats-presidentielle-2027/marine-le-pen"
+            }
+          ]
+        }
+      ],
+      "positions": {
+        "retraite-64": {
+          "value": 2,
+          "source": "https://monvote2027.fr/candidat/le-pen",
+          "note": "Abroger la réforme de 2023, retour à 62 ans"
+        },
+        "isf": {
+          "value": 1,
+          "source": "https://www.france-vote.fr/candidats/marine-le-pen",
+          "note": "Impôt sur la fortune financière remplaçant l’IFI, même barème"
+        },
+        "dette": {
+          "value": 1,
+          "source": "https://isoloir2027.fr/candidats-presidentielle-2027/marine-le-pen",
+          "note": "Contre-budget avec 140 Md€ d’économies nettes d’ici 2032"
+        },
+        "immigration-baisse": {
+          "value": 2,
+          "source": "https://presi2027.fr/candidat/lepen"
+        },
+        "droit-sol": {
+          "value": 2,
+          "source": "https://presi2027.fr/candidat/lepen",
+          "note": "Suppression par référendum constitutionnel"
+        },
+        "regularisation": {
+          "value": -2,
+          "estimated": true
+        },
+        "nucleaire": {
+          "value": 2,
+          "source": "https://laboussole2027.fr/candidats/le-pen",
+          "note": "6 à 14 nouveaux réacteurs"
+        },
+        "climat-priorite": {
+          "value": -1,
+          "source": "https://laboussole2027.fr/candidats/le-pen",
+          "note": "Moratoire éolien, abrogation de l’interdiction des moteurs thermiques en 2035"
+        },
+        "europe-integration": {
+          "value": -2,
+          "source": "https://www.france-vote.fr/candidats/marine-le-pen",
+          "note": "Refus de partager la dissuasion, souveraineté nationale"
+        },
+        "ukraine": {
+          "value": -1,
+          "source": "https://www.france-vote.fr/candidats/marine-le-pen",
+          "note": "Fin de l’aide financière, soutien défensif limité"
+        },
+        "defense-budget": {
+          "value": 2,
+          "source": "https://isoloir2027.fr/candidats-presidentielle-2027/marine-le-pen",
+          "note": "Défense à 3 % du PIB"
+        },
+        "police": {
+          "value": 2,
+          "estimated": true
+        },
+        "proportionnelle": {
+          "value": 2,
+          "source": "https://isoloir2027.fr/candidats-presidentielle-2027/marine-le-pen"
+        },
+        "ric": {
+          "value": 1,
+          "source": "https://label.ric-france.fr/comparatif-des-candidats-avec-le-ric-a-la-presidentielle-2027",
+          "note": "Mentionné sans développement"
+        },
+        "fin-de-vie": {
+          "value": -1,
+          "source": "https://monvote2027.fr/candidat/le-pen",
+          "note": "Groupe RN très majoritairement contre"
+        },
+        "agriculture-normes": {
+          "value": 2,
+          "source": "https://www.politique-animaux.fr/elevage/marine-le-pen-promet-moins-de-normes-et-plus-d-aides-financieres-l-agriculture-dont-les-fili"
+        },
+        "otan": {
+          "value": 2,
+          "source": "https://www.21news.be/marine-le-pen-veut-sortir-la-france-du-commandement-integre-de-lotan/",
+          "note": "Sortie du commandement intégré, maintien dans l’Alliance"
+        },
+        "regroupement-familial": {
+          "value": 2,
+          "estimated": true
+        },
+        "thermique-2035": {
+          "value": -2,
+          "source": "https://laboussole2027.fr/candidats/le-pen",
+          "note": "Abroger l’interdiction des moteurs thermiques en 2035"
+        },
+        "eolien": {
+          "value": -2,
+          "source": "https://laboussole2027.fr/candidats/le-pen",
+          "note": "Moratoire sur l’éolien terrestre et démontage progressif"
+        },
+        "dissuasion-europe": {
+          "value": -2,
+          "source": "https://www.france-vote.fr/candidats/marine-le-pen",
+          "note": "Refus de partager la dissuasion"
+        },
+        "primaute-droit": {
+          "value": 2,
+          "source": "https://www.france-vote.fr/candidats/marine-le-pen",
+          "note": "Réforme constitutionnelle affirmant la souveraineté nationale"
+        },
+        "prix-planchers": {
+          "value": 1,
+          "source": "https://www.politique-animaux.fr/elevage/marine-le-pen-promet-moins-de-normes-et-plus-d-aides-financieres-l-agriculture-dont-les-fili",
+          "note": "Prix garantis, conditionnés à moins de normes"
+        },
+        "justice-mineurs": {
+          "value": 2,
+          "estimated": true
+        },
+        "cannabis": {
+          "value": -2,
+          "source": "https://www.europe1.fr/politique/legaliser-le-cannabis-cest-envoyer-un-signal-dramatique-estime-jordan-bardella-3905772",
+          "note": "Position exprimée par Jordan Bardella"
+        },
+        "uniforme": {
+          "value": 1,
+          "source": "https://mlafrance.fr/programme",
+          "note": "Programme 2022"
+        },
+        "signes-religieux": {
+          "value": 2,
+          "source": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-souhaite-interdire-le-voile-islamique-de-maniere-progressive_8196287.html",
+          "note": "Interdire progressivement le voile islamique"
+        },
+        "loyers": {
+          "value": -2,
+          "source": "https://lcp.fr/actualites/encadrement-des-loyers-l-assemblee-vote-en-faveur-d-une-perennisation-du-dispositif",
+          "note": "Vote du groupe RN"
+        },
+        "ame": {
+          "value": 2,
+          "source": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/suppression-de-laide-medicale-detat-ame-et-remplacement-par-laide-durgence-vitale/",
+          "note": "Remplacer l’AME par une aide d’urgence vitale"
+        },
+        "heritage": {
+          "value": -2,
+          "source": "https://www.moneyvox.fr/votre-argent/actualites/98398/heritage-retraite-salaire-quelles-sont-les-promesses-du-rn-sur-le-pouvoir-achat",
+          "note": "Supprimer les droits de succession directs pour les familles modestes"
+        },
+        "cotisations-patronales": {
+          "value": 1,
+          "source": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/exonerer-les-entreprises-des-cotisations-patronales-sur-les-hausses-de-10-des-grilles-de-salaires-pour-tous-les-salaries-sous-3-smic/",
+          "note": "Exonération ciblée sur les hausses de salaires"
+        },
+        "nationalisations": {
+          "value": 1,
+          "source": "https://www.assemblee-nationale.fr/dyn/16/dossiers/nationalisation_EDF",
+          "note": "Proposition de loi pour nationaliser EDF"
+        }
+      }
+    },
+    {
+      "id": "melenchon",
+      "name": "Jean-Luc Mélenchon",
+      "party": "La France insoumise",
+      "color": "#C9462C",
+      "website": "https://melenchon2027.fr/",
+      "programUrl": "https://melenchon2027.fr/programme/decouvrir/",
+      "program": [
+        {
+          "theme": "Économie & social",
+          "points": [
+            {
+              "text": "Retraite à 60 ans avec 40 annuités",
+              "source": "https://www.france-vote.fr/actualites/programme-melenchon-lfi-2027"
+            },
+            {
+              "text": "SMIC à 1 700 € net",
+              "source": "https://www.france-vote.fr/actualites/programme-melenchon-lfi-2027"
+            },
+            {
+              "text": "Semaine de 32 heures",
+              "source": "https://www.france-vote.fr/candidats/jean-luc-melenchon/social"
+            },
+            {
+              "text": "Rétablir l'ISF, taxe Zucman et impôt sur le revenu à 14 tranches",
+              "source": "https://www.france-vote.fr/actualites/programme-melenchon-lfi-2027"
+            }
+          ]
+        },
+        {
+          "theme": "Écologie & énergie",
+          "points": [
+            {
+              "text": "Sortie progressive du nucléaire d'ici 2050, 100 % renouvelables",
+              "source": "https://www.france-vote.fr/actualites/programme-melenchon-lfi-2027"
+            }
+          ]
+        },
+        {
+          "theme": "Immigration",
+          "points": [
+            {
+              "text": "Régulariser les travailleurs sans papiers",
+              "source": "https://melenchon2022.fr/wp-content/uploads/2022/02/Livret_UP_06_MIGRATION_web-1.pdf"
+            },
+            {
+              "text": "Politique migratoire « humaniste et réaliste »",
+              "source": "https://melenchon2022.fr/wp-content/uploads/2022/02/Livret_UP_06_MIGRATION_web-1.pdf"
+            }
+          ]
+        },
+        {
+          "theme": "International & défense",
+          "points": [
+            {
+              "text": "Retrait immédiat du commandement intégré de l'OTAN",
+              "source": "https://www.europe1.fr/politique/otan-ce-que-proposent-les-principaux-candidats-a-la-presidentielle-4100861"
+            },
+            {
+              "text": "Diplomatie de non-alignement et de paix",
+              "source": "https://www.france-vote.fr/actualites/programme-melenchon-lfi-2027"
+            }
+          ]
+        },
+        {
+          "theme": "Institutions",
+          "points": [
+            {
+              "text": "Assemblée constituante pour une 6e République",
+              "source": "https://www.france-vote.fr/actualites/programme-melenchon-lfi-2027"
+            },
+            {
+              "text": "Proportionnelle et référendum d'initiative citoyenne",
+              "source": "https://www.france-vote.fr/actualites/programme-melenchon-lfi-2027"
+            }
+          ]
+        }
+      ],
+      "positions": {
+        "retraite-64": {
+          "value": 2,
+          "source": "https://www.france-vote.fr/actualites/programme-melenchon-lfi-2027",
+          "note": "Retraite à 60 ans"
+        },
+        "smic": {
+          "value": 2,
+          "source": "https://www.france-vote.fr/actualites/programme-melenchon-lfi-2027",
+          "note": "SMIC à 1 600 € puis 1 700 € net"
+        },
+        "isf": {
+          "value": 2,
+          "source": "https://www.france-vote.fr/actualites/programme-melenchon-lfi-2027",
+          "note": "Rétablir l’ISF, taxe Zucman"
+        },
+        "dette": {
+          "value": -2,
+          "estimated": true
+        },
+        "immigration-baisse": {
+          "value": -2,
+          "source": "https://melenchon2022.fr/wp-content/uploads/2022/02/Livret_UP_06_MIGRATION_web-1.pdf",
+          "note": "Politique migratoire « humaniste » (livret 2022)"
+        },
+        "droit-sol": {
+          "value": -2,
+          "estimated": true
+        },
+        "regularisation": {
+          "value": 2,
+          "source": "https://melenchon2022.fr/wp-content/uploads/2022/02/Livret_UP_06_MIGRATION_web-1.pdf",
+          "note": "Régulariser tous les travailleurs sans papiers (livret 2022)"
+        },
+        "nucleaire": {
+          "value": -2,
+          "source": "https://www.france-vote.fr/actualites/programme-melenchon-lfi-2027",
+          "note": "Sortie progressive du nucléaire d’ici 2050"
+        },
+        "climat-priorite": {
+          "value": 1,
+          "estimated": true
+        },
+        "europe-integration": {
+          "value": -1,
+          "source": "https://testpolitique.fr/blog/actu/programme-melenchon-2027.html",
+          "note": "Non-alignement, refus de la « vassalisation »"
+        },
+        "ukraine": {
+          "value": 0,
+          "source": "https://www.civiqo.fr/presidentielle-2027/positions/ukraine",
+          "note": "Soutien affiché mais refus de la co-belligérance"
+        },
+        "police": {
+          "value": -1,
+          "estimated": true
+        },
+        "proportionnelle": {
+          "value": 2,
+          "source": "https://www.france-vote.fr/actualites/programme-melenchon-lfi-2027",
+          "note": "6e République, proportionnelle"
+        },
+        "ric": {
+          "value": 2,
+          "source": "https://www.franceinfo.fr/elections/presidentielle/candidats/referendum-convention-citoyenne-ric-que-proposent-les-candidats-a-la-presidentielle-pour-reformer-la-vie-democratique_5055388.html"
+        },
+        "fin-de-vie": {
+          "value": 2,
+          "estimated": true
+        },
+        "services-publics": {
+          "value": 2,
+          "estimated": true
+        },
+        "agriculture-normes": {
+          "value": -1,
+          "estimated": true
+        },
+        "capitalisation": {
+          "value": -2,
+          "estimated": true
+        },
+        "otan": {
+          "value": 2,
+          "source": "https://www.europe1.fr/politique/otan-ce-que-proposent-les-principaux-candidats-a-la-presidentielle-4100861",
+          "note": "Retrait immédiat du commandement intégré, puis de l’OTAN par étapes"
+        },
+        "regroupement-familial": {
+          "value": -2,
+          "estimated": true
+        },
+        "32-heures": {
+          "value": 2,
+          "source": "https://www.france-vote.fr/candidats/jean-luc-melenchon/social",
+          "note": "Semaine de 32 heures ou de quatre jours"
+        },
+        "eolien": {
+          "value": 2,
+          "source": "https://www.france-vote.fr/actualites/programme-melenchon-lfi-2027",
+          "note": "Objectif 100 % renouvelables"
+        },
+        "dissuasion-europe": {
+          "value": -1,
+          "estimated": true
+        },
+        "nouvelle-republique": {
+          "value": 2,
+          "source": "https://www.france-vote.fr/actualites/programme-melenchon-lfi-2027",
+          "note": "Assemblée constituante pour une 6e République"
+        },
+        "prix-planchers": {
+          "value": 2,
+          "estimated": true
+        },
+        "justice-mineurs": {
+          "value": -2,
+          "estimated": true
+        },
+        "cannabis": {
+          "value": 2,
+          "source": "https://www.institutmontaigne.org/presidentielle-2022/jean-luc-melenchon/legaliser-et-encadrer-par-un-monopole-detat-la-vente-production-et-consommation-de-cannabis-a-des-fins-recreatives/",
+          "note": "Monopole d’État sur la vente"
+        },
+        "rsa-activite": {
+          "value": -2,
+          "source": "https://melenchon2022.fr/plans/pauvrete/"
+        },
+        "uniforme": {
+          "value": -1,
+          "source": "https://lcp.fr/actualites/uniforme-ecole-rassemblement-national-echoue-rendre-obligatoire-160476"
+        },
+        "signes-religieux": {
+          "value": -2,
+          "source": "https://x.com/JLMelenchon/status/1512142646566916098"
+        },
+        "loyers": {
+          "value": 2,
+          "source": "https://programme.lafranceinsoumise.fr/livrets/logement/"
+        },
+        "ame": {
+          "value": -2,
+          "source": "https://linsoumission.fr/2025/11/06/attaque-ame-extreme-droite-sante/"
+        },
+        "heritage": {
+          "value": 2,
+          "source": "https://melenchon2022.fr/plans/justice-fiscale/"
+        },
+        "cotisations-patronales": {
+          "value": -2,
+          "source": "https://melenchon2022.fr/plans/justice-fiscale/"
+        },
+        "nationalisations": {
+          "value": 2,
+          "source": "https://programme.lafranceinsoumise.fr/programme-version-courte/"
+        },
+        "centres-sante": {
+          "value": 2,
+          "estimated": true
+        },
+        "service-national": {
+          "value": -2,
+          "source": "https://lafranceinsoumise.fr/2023/02/27/snu-une-idee-sotte-et-une-obligation-inacceptable/",
+          "note": "Contre le SNU obligatoire, propose une « conscription citoyenne »"
+        }
+      }
+    },
+    {
+      "id": "philippe",
+      "name": "Édouard Philippe",
+      "party": "Horizons",
+      "color": "#2F7FB8",
+      "website": "https://www.edouardphilippe.fr/",
+      "programUrl": "https://www.edouardphilippe.fr/",
+      "program": [
+        {
+          "theme": "Économie & finances",
+          "points": [
+            {
+              "text": "Ramener le déficit de plus de 5 % à 2 % du PIB, « règle d'or » adoptée par référendum",
+              "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere"
+            },
+            {
+              "text": "Supprimer plus de 250 000 postes de fonctionnaires sur le quinquennat",
+              "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere"
+            },
+            {
+              "text": "Retraite vers 65 ans avec 15 % de capitalisation",
+              "source": "https://www.parlons-politique.fr/elections/presidentielle-2027-retraites-immigration-deficit-ce-que-le-projet-dedouard-philippe-changerait-pour-les-francais_25969/"
+            },
+            {
+              "text": "Moratoire réglementaire et « zéro surtransposition » agricole",
+              "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere"
+            }
+          ]
+        },
+        {
+          "theme": "Sécurité & immigration",
+          "points": [
+            {
+              "text": "Diviser par deux l'immigration",
+              "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure"
+            },
+            {
+              "text": "Peines planchers pour les infractions les plus graves, suppression du juge d'application des peines",
+              "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure"
+            },
+            {
+              "text": "Liste des pays d'origine sûrs votée chaque année par le Parlement",
+              "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure"
+            },
+            {
+              "text": "Suspendre le droit du sol à Mayotte",
+              "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure"
+            }
+          ]
+        },
+        {
+          "theme": "Énergie & industrie",
+          "points": [
+            {
+              "text": "8 réacteurs EPR en plus des 6 déjà prévus",
+              "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante"
+            },
+            {
+              "text": "« Buy European Tech Act » et infrastructure européenne d'IA",
+              "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante"
+            }
+          ]
+        },
+        {
+          "theme": "Défense",
+          "points": [
+            {
+              "text": "Porter les réservistes de 45 000 à 250 000",
+              "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure"
+            },
+            {
+              "text": "Nouvelle loi de programmation militaire « de la massification »",
+              "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure"
+            },
+            {
+              "text": "Soutien à l'Ukraine « sans compromissions »",
+              "source": "https://www.civiqo.fr/presidentielle-2027/positions/ukraine"
+            }
+          ]
+        }
+      ],
+      "positions": {
+        "retraite-64": {
+          "value": -2,
+          "source": "https://www.parlons-politique.fr/elections/presidentielle-2027-retraites-immigration-deficit-ce-que-le-projet-dedouard-philippe-changerait-pour-les-francais_25969/",
+          "note": "Âge porté progressivement à 65 ans, part de capitalisation"
+        },
+        "isf": {
+          "value": -2,
+          "estimated": true
+        },
+        "dette": {
+          "value": 2,
+          "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+          "note": "Déficit ramené de plus de 5 % à 2 % du PIB"
+        },
+        "immigration-baisse": {
+          "value": 2,
+          "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+          "note": "« Diviser par deux l’immigration »"
+        },
+        "regularisation": {
+          "value": -1,
+          "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+          "note": "Aucun État européen ne doit pouvoir régulariser massivement seul"
+        },
+        "nucleaire": {
+          "value": 2,
+          "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+          "note": "8 EPR supplémentaires en plus des 6 prévus"
+        },
+        "europe-integration": {
+          "value": 1,
+          "source": "https://www.france-vote.fr/candidats/edouard-philippe",
+          "note": "Europe puissance et défense commune"
+        },
+        "ukraine": {
+          "value": 2,
+          "source": "https://www.civiqo.fr/presidentielle-2027/positions/ukraine",
+          "note": "« Aux côtés de l’Ukraine. Sans compromissions »"
+        },
+        "defense-budget": {
+          "value": 2,
+          "source": "https://candidats-presidentielle-2027.fr/candidat/edouard-philippe",
+          "note": "Défense à 3 % du PIB d’ici 2030 (non confirmé sur le site officiel)"
+        },
+        "police": {
+          "value": 2,
+          "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+          "note": "Peines planchers pour les infractions les plus graves, suppression du juge d’application des peines"
+        },
+        "proportionnelle": {
+          "value": 1,
+          "source": "https://www.france-vote.fr/candidats/edouard-philippe",
+          "note": "« Dose de proportionnelle », modalités non précisées"
+        },
+        "ric": {
+          "value": -1,
+          "estimated": true,
+          "note": "Ouvert « pas sur n’importe quel sujet »"
+        },
+        "agriculture-normes": {
+          "value": 1,
+          "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+          "note": "Zéro surtransposition agricole, moratoire réglementaire"
+        },
+        "droit-sol": {
+          "value": 1,
+          "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+          "note": "Suspension du droit du sol à Mayotte uniquement"
+        },
+        "services-publics": {
+          "value": -2,
+          "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+          "note": "Supprimer plus de 250 000 postes de fonctionnaires sur le quinquennat"
+        },
+        "capitalisation": {
+          "value": 2,
+          "source": "https://www.parlons-politique.fr/elections/presidentielle-2027-retraites-immigration-deficit-ce-que-le-projet-dedouard-philippe-changerait-pour-les-francais_25969/",
+          "note": "15 % de capitalisation dans le système"
+        },
+        "otan": {
+          "value": -2,
+          "estimated": true
+        },
+        "regroupement-familial": {
+          "value": 2,
+          "source": "https://www.parlons-politique.fr/elections/presidentielle-2027-retraites-immigration-deficit-ce-que-le-projet-dedouard-philippe-changerait-pour-les-francais_25969/",
+          "note": "Moratoire sur certaines formes de regroupement familial"
+        },
+        "32-heures": {
+          "value": -2,
+          "estimated": true
+        },
+        "dissuasion-europe": {
+          "value": 2,
+          "source": "https://candidats-presidentielle-2027.fr/candidat/edouard-philippe",
+          "note": "« Européanisation » de la dissuasion"
+        },
+        "primaute-droit": {
+          "value": -1,
+          "estimated": true
+        },
+        "nouvelle-republique": {
+          "value": -2,
+          "estimated": true
+        },
+        "rsa-activite": {
+          "value": 1,
+          "source": "https://lcp.fr/actualites/reforme-du-rsa-france-travail-l-assemblee-nationale-adopte-le-projet-de-loi-pour-le",
+          "note": "Vote d’Horizons pour les 15 heures d’activité"
+        },
+        "signes-religieux": {
+          "value": -1,
+          "source": "https://www.maire-info.com/laicite/port-du-voile-par-les-accompagnatrices-des-sorties-scolaires-le-premier-ministre-oppose-%C3%A0-une-loi-article-23495",
+          "note": "« Les usagers ne sont pas soumis à l’obligation de neutralité » (2019)"
+        },
+        "loyers": {
+          "value": -2,
+          "source": "https://www.immomatin.com/franchise/reseaux-franchise/renforcer-le-droit-du-proprietaire-pour-fluidifier-le-marche-edouard-philippe-congres-fnaim-2025.html"
+        },
+        "ame": {
+          "value": 1,
+          "source": "https://www.planet.fr/politique-edouard-philippe-presente-ses-propositions-sur-limmigration-pour-2027.2995952.29334.html",
+          "note": "Transformer l’AME en aide médicale d’urgence très resserrée"
+        },
+        "heritage": {
+          "value": -1,
+          "source": "https://www.parlons-politique.fr/elections/en-2027-edouard-philippe-promet-ordre-et-reformes-mais-les-francais-attendent-surtout-des-reponses-sur-le-pouvoir-dachat_15599/",
+          "note": "Refus d’augmenter les impôts des ménages"
+        },
+        "cotisations-patronales": {
+          "value": 2,
+          "source": "https://www.publicsenat.fr/actualites/economie/entreprises-un-deal-a-250-milliards-deuros-sur-un-quinquennat-que-represente-la-proposition-dedouard-philippe",
+          "note": "Baisse de 50 Md€ des impôts de production"
+        },
+        "nationalisations": {
+          "value": -1,
+          "source": "https://www.europe1.fr/politique/coronavirus-edouard-philippe-nexclut-pas-des-nationalisations-si-necessaire-3956028",
+          "note": "Seulement en cas de nécessité exceptionnelle"
+        },
+        "centres-sante": {
+          "value": -1,
+          "source": "https://www.francebleu.fr/infos/sante-sciences/edouard-philippe-notre-objectif-c-est-de-doubler-les-maisons-de-sante-pour-lutter-contre-les-deserts-1507825456",
+          "note": "Privilégie les maisons de santé libérales (2017)"
+        },
+        "service-national": {
+          "value": 0,
+          "source": "https://www.cnews.fr/france/2023-11-05/service-militaire-edouard-philippe-sinterroge-sur-un-possible-retour-de-la",
+          "note": "« C’est une question qui se pose peut-être »"
+        }
+      }
+    },
+    {
+      "id": "glucksmann",
+      "name": "Raphaël Glucksmann",
+      "party": "Place publique · PS",
+      "color": "#E5487A",
+      "website": "https://place-publique.eu/",
+      "program": [
+        {
+          "theme": "Économie & social",
+          "points": [
+            {
+              "text": "Revenir sur la réforme de 2023 avec une retraite fondée sur la pénibilité",
+              "source": "https://www.france-vote.fr/candidats/raphael-glucksmann"
+            },
+            {
+              "text": "Taxe Zucman : 2 % minimum sur les patrimoines de plus de 100 M€",
+              "source": "https://www.elyseescope.com/questions/raphael-glucksmann-et-la-taxe-zucman-une-condition-centrale-pour-les"
+            },
+            {
+              "text": "Taxer les plus gros héritages",
+              "source": "https://www.france-vote.fr/candidats/raphael-glucksmann"
+            }
+          ]
+        },
+        {
+          "theme": "Écologie & énergie",
+          "points": [
+            {
+              "text": "Conforter le nucléaire et investir massivement dans les renouvelables",
+              "source": "https://www.france-vote.fr/candidats/raphael-glucksmann"
+            },
+            {
+              "text": "Indexer une partie de la facture d'électricité sur les coûts de production",
+              "source": "https://www.france-vote.fr/candidats/raphael-glucksmann"
+            }
+          ]
+        },
+        {
+          "theme": "Immigration",
+          "points": [
+            {
+              "text": "Abroger la loi immigration de 2024 et régulariser les travailleurs sans papiers",
+              "source": "https://www.france-vote.fr/candidats/raphael-glucksmann"
+            },
+            {
+              "text": "Convention citoyenne sur l'immigration",
+              "source": "https://www.france-vote.fr/candidats/raphael-glucksmann"
+            }
+          ]
+        },
+        {
+          "theme": "Europe & défense",
+          "points": [
+            {
+              "text": "Fonds européen de défense de 500 Md€ financé par emprunt commun",
+              "source": "https://www.france-vote.fr/candidats/raphael-glucksmann"
+            },
+            {
+              "text": "Étendre la dissuasion nucléaire française aux pays de l'UE",
+              "source": "https://www.france-vote.fr/candidats/raphael-glucksmann"
+            },
+            {
+              "text": "Augmenter fortement l'aide militaire à l'Ukraine",
+              "source": "https://www.civiqo.fr/presidentielle-2027/positions/ukraine"
+            }
+          ]
+        }
+      ],
+      "positions": {
+        "retraite-64": {
+          "value": 1,
+          "source": "https://www.france-vote.fr/candidats/raphael-glucksmann",
+          "note": "Retour à 62 ans, mais pas 60 ; départ selon la pénibilité"
+        },
+        "isf": {
+          "value": 2,
+          "source": "https://www.elyseescope.com/questions/raphael-glucksmann-et-la-taxe-zucman-une-condition-centrale-pour-les",
+          "note": "Taxe Zucman de 2 % au-delà de 100 M€"
+        },
+        "immigration-baisse": {
+          "value": -1,
+          "source": "https://www.france-vote.fr/candidats/raphael-glucksmann",
+          "note": "Immigration « régulée », abrogation de la loi de 2024"
+        },
+        "droit-sol": {
+          "value": -2,
+          "estimated": true
+        },
+        "regularisation": {
+          "value": 2,
+          "source": "https://www.france-vote.fr/candidats/raphael-glucksmann"
+        },
+        "nucleaire": {
+          "value": 1,
+          "source": "https://www.france-vote.fr/candidats/raphael-glucksmann",
+          "note": "Conforter le nucléaire et investir dans les renouvelables"
+        },
+        "climat-priorite": {
+          "value": 2,
+          "estimated": true
+        },
+        "europe-integration": {
+          "value": 2,
+          "source": "https://www.france-vote.fr/candidats/raphael-glucksmann",
+          "note": "Fonds européen de défense de 500 Md€"
+        },
+        "ukraine": {
+          "value": 2,
+          "source": "https://www.civiqo.fr/presidentielle-2027/positions/ukraine",
+          "note": "« Augmenter drastiquement l’aide militaire »"
+        },
+        "defense-budget": {
+          "value": 2,
+          "source": "https://www.france-vote.fr/candidats/raphael-glucksmann"
+        },
+        "proportionnelle": {
+          "value": 2,
+          "estimated": true
+        },
+        "fin-de-vie": {
+          "value": 2,
+          "estimated": true
+        },
+        "services-publics": {
+          "value": 2,
+          "estimated": true
+        },
+        "agriculture-normes": {
+          "value": -2,
+          "estimated": true
+        },
+        "otan": {
+          "value": -2,
+          "estimated": true
+        },
+        "eolien": {
+          "value": 1,
+          "source": "https://www.france-vote.fr/candidats/raphael-glucksmann",
+          "note": "Effort massif sur les renouvelables"
+        },
+        "dissuasion-europe": {
+          "value": 2,
+          "source": "https://www.france-vote.fr/candidats/raphael-glucksmann",
+          "note": "Étendre la dissuasion aux pays de l’UE, décision française"
+        },
+        "primaute-droit": {
+          "value": -2,
+          "estimated": true
+        },
+        "cannabis": {
+          "value": 1,
+          "source": "https://www.publicsenat.fr/actualites/non-classe/cannabis-70-personnalites-appellent-a-legaliser-au-nom-du-pragmatisme-142235",
+          "note": "Tribune de 2019"
+        },
+        "rsa-activite": {
+          "value": -1,
+          "source": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme"
+        },
+        "signes-religieux": {
+          "value": -1,
+          "source": "https://politiwiki.fr/wiki/Rapha%C3%ABl_Glucksmann"
+        },
+        "loyers": {
+          "value": 2,
+          "source": "https://programme.lafranceinsoumise.fr/comparateur-place-publique-2025/"
+        },
+        "ame": {
+          "value": -2,
+          "source": "https://www.france24.com/fr/info-en-continu/20260129-immigration-glucksmann-pr%C3%B4ne-le-contr%C3%B4le-mais-r%C3%A9fute-toute-submersion"
+        },
+        "heritage": {
+          "value": 2,
+          "source": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann"
+        },
+        "nationalisations": {
+          "value": -1,
+          "source": "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-europeennes-2024-le-programme-de-raphael-glucksmann-et-de-la-liste-parti-socialiste-ps-place-publique-pp/"
+        },
+        "centres-sante": {
+          "value": 1,
+          "source": "https://www.mon-salaire-net.fr/blog/raphael-glucksmann-presente-le-programme-de-place-publique-pour-la-presidentielle-smic-a-1-600-e-taxe-amazon-et-enjeux-de-defense-et-de-democratie/"
+        },
+        "service-national": {
+          "value": 2,
+          "source": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/service-militaire-volontaire-raphael-glucksmann-veut-aller-plus-loin-avec-un-service-universel-et-obligatoire-pas-necessairement-militaire-mais-civique_7636481.html",
+          "note": "Service universel obligatoire, pas forcément militaire"
+        }
+      }
+    },
+    {
+      "id": "retailleau",
+      "name": "Bruno Retailleau",
+      "party": "Les Républicains",
+      "color": "#1F4E9C",
+      "website": "https://republicains.fr/",
+      "program": [
+        {
+          "theme": "Économie & finances",
+          "points": [
+            {
+              "text": "Plan de 197 Md€ d'économies sur le quinquennat, excédent primaire en 2030",
+              "source": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu"
+            },
+            {
+              "text": "Pas d'impôt spécifique sur les grandes fortunes",
+              "source": "https://www.ifrap.org/comparateurs/presidentielles-2027"
+            }
+          ]
+        },
+        {
+          "theme": "Immigration",
+          "points": [
+            {
+              "text": "Supprimer le droit du sol par référendum",
+              "source": "https://www.lejdd.fr/politique/presidentielle-bruno-retailleau-veut-supprimer-le-droit-du-sol-177978"
+            },
+            {
+              "text": "Aides sociales conditionnées à 5 ans de présence légale et de travail",
+              "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle"
+            },
+            {
+              "text": "« Réduire drastiquement » le regroupement familial",
+              "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle"
+            }
+          ]
+        },
+        {
+          "theme": "Sécurité & justice",
+          "points": [
+            {
+              "text": "Rétablir les peines planchers",
+              "source": "https://www.ifrap.org/comparateurs/presidentielles-2027"
+            },
+            {
+              "text": "Supprimer l'« excuse de minorité » pour les récidivistes",
+              "source": "https://candidats-presidentielle-2027.fr/candidat/bruno-retailleau"
+            }
+          ]
+        },
+        {
+          "theme": "Institutions",
+          "points": [
+            {
+              "text": "Réforme constitutionnelle en priorité : primauté du droit français, référendums élargis",
+              "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle"
+            }
+          ]
+        },
+        {
+          "theme": "Agriculture & énergie",
+          "points": [
+            {
+              "text": "Interdire toute surtransposition des normes européennes, supprimer l'OFB",
+              "source": "https://www.pleinchamp.com/actualite/presidentielle-2027-bruno-retailleau-defend-le-stockage-de-l-eau-et-la-reduction-des-contraintes-agricoles"
+            },
+            {
+              "text": "Relance d'un grand programme nucléaire",
+              "source": "https://www.france-vote.fr/actualites/programme-bruno-retailleau-2027"
+            }
+          ]
+        }
+      ],
+      "positions": {
+        "retraite-64": {
+          "value": -2,
+          "source": "https://www.france-vote.fr/actualites/programme-bruno-retailleau-2027",
+          "note": "Opposé à la suspension de la réforme"
+        },
+        "isf": {
+          "value": -2,
+          "source": "https://www.ifrap.org/comparateurs/presidentielles-2027",
+          "note": "Contre tout impôt spécifique aux grandes fortunes"
+        },
+        "dette": {
+          "value": 2,
+          "source": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
+          "note": "197 Md€ d’économies sur le quinquennat"
+        },
+        "immigration-baisse": {
+          "value": 2,
+          "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle"
+        },
+        "droit-sol": {
+          "value": 2,
+          "source": "https://www.lejdd.fr/politique/presidentielle-bruno-retailleau-veut-supprimer-le-droit-du-sol-177978",
+          "note": "Suppression par référendum"
+        },
+        "regularisation": {
+          "value": -2,
+          "estimated": true
+        },
+        "nucleaire": {
+          "value": 2,
+          "source": "https://www.france-vote.fr/actualites/programme-bruno-retailleau-2027",
+          "note": "Relance d’un grand programme nucléaire"
+        },
+        "climat-priorite": {
+          "value": -1,
+          "estimated": true
+        },
+        "europe-integration": {
+          "value": -1,
+          "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
+          "note": "Primauté du droit français"
+        },
+        "ukraine": {
+          "value": 1,
+          "source": "https://www.civiqo.fr/presidentielle-2027/positions/ukraine",
+          "note": "Vote favorable de son groupe (mars 2025)"
+        },
+        "defense-budget": {
+          "value": 2,
+          "source": "https://candidats-presidentielle-2027.fr/candidat/bruno-retailleau",
+          "note": "Défense à 3 % du PIB (chiffre non confirmé officiellement)"
+        },
+        "police": {
+          "value": 2,
+          "source": "https://www.ifrap.org/comparateurs/presidentielles-2027",
+          "note": "Rétablissement des peines planchers (périmètre variable selon les sources)"
+        },
+        "proportionnelle": {
+          "value": -2,
+          "source": "https://monvote2027.fr/candidat/retailleau",
+          "note": "Juge la proportionnelle dangereuse pour la Ve République"
+        },
+        "fin-de-vie": {
+          "value": -2,
+          "source": "https://monvote2027.fr/candidat/retailleau",
+          "note": "« L’euthanasie, ce n’est pas aller plus loin, c’est aller ailleurs »"
+        },
+        "services-publics": {
+          "value": -1,
+          "source": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu"
+        },
+        "agriculture-normes": {
+          "value": 2,
+          "source": "https://www.pleinchamp.com/actualite/presidentielle-2027-bruno-retailleau-defend-le-stockage-de-l-eau-et-la-reduction-des-contraintes-agricoles",
+          "note": "Interdire toute surtransposition, supprimer l’OFB"
+        },
+        "otan": {
+          "value": -1,
+          "source": "https://candidats-presidentielle-2027.fr/candidat/bruno-retailleau",
+          "note": "Maintien dans l’Alliance atlantique"
+        },
+        "regroupement-familial": {
+          "value": 2,
+          "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
+          "note": "« Réduire drastiquement » le regroupement familial"
+        },
+        "32-heures": {
+          "value": -2,
+          "estimated": true
+        },
+        "thermique-2035": {
+          "value": -1,
+          "estimated": true
+        },
+        "primaute-droit": {
+          "value": 2,
+          "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
+          "note": "Réaffirmer la primauté du droit français"
+        },
+        "nouvelle-republique": {
+          "value": -1,
+          "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
+          "note": "Profonde réforme constitutionnelle, mais dans la Ve République"
+        },
+        "prix-planchers": {
+          "value": -2,
+          "source": "https://www.terre-net.fr/salon-de-lagriculture/article/895258/retailleau-entre-en-guerre-contre-la-culture-du-blocage",
+          "note": "Opposé aux prix planchers agricoles"
+        },
+        "justice-mineurs": {
+          "value": 2,
+          "source": "https://candidats-presidentielle-2027.fr/candidat/bruno-retailleau",
+          "note": "Suppression de l’« excuse de minorité » pour les récidivistes"
+        },
+        "cannabis": {
+          "value": -2,
+          "source": "https://www.europe1.fr/politique/legalisation-du-cannabis-ca-ne-marche-pas-estime-bruno-retailleau-396031"
+        },
+        "rsa-activite": {
+          "value": 2,
+          "source": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi"
+        },
+        "uniforme": {
+          "value": 2,
+          "source": "https://www.publicsenat.fr/actualites/politique/uniformes-obligatoires-a-l-ecole-une-proposition-de-loi-deposee-au-senat-231733"
+        },
+        "signes-religieux": {
+          "value": 2,
+          "source": "https://www.maire-info.com/bruno-retailleau-relance-le-debat-sur-le-voile-pour-les-accompagnatrices-de-sorties-scolaires-article2-29263"
+        },
+        "loyers": {
+          "value": -2,
+          "source": "https://www.journaldelagence.com/1411841-presidentielle-2027-les-propositions-de-bruno-retailleau-pour-relancer-le-logement"
+        },
+        "ame": {
+          "value": 2,
+          "source": "https://www.franceinfo.fr/politique/bruno-retailleau/loi-immigration-bruno-retailleau-explique-qu-il-ne-veut-pas-supprimer-l-ame-mais-la-transformer-en-aide-medicale-d-urgence_6856973.html",
+          "note": "Transformer l’AME en aide médicale d’urgence"
+        },
+        "heritage": {
+          "value": -2,
+          "source": "https://contrepoints.org/flat-tax-aides-aux-entreprises-assurances-sociales-calendrier-des-reformes-bruno-retailleau-repond-a-nos-questions/"
+        },
+        "cotisations-patronales": {
+          "value": 2,
+          "source": "https://contrepoints.org/flat-tax-aides-aux-entreprises-assurances-sociales-calendrier-des-reformes-bruno-retailleau-repond-a-nos-questions/"
+        },
+        "nationalisations": {
+          "value": -2,
+          "estimated": true
+        },
+        "centres-sante": {
+          "value": -1,
+          "source": "https://www.europe1.fr/politique/sante-les-propositions-de-bruno-retailleau-face-a-la-crise-de-lhopital-public-4114910"
+        }
+      }
+    },
+    {
+      "id": "lisnard",
+      "name": "David Lisnard",
+      "party": "Nouvelle Énergie",
+      "color": "#0E7C86",
+      "website": "https://www.unenouvelleenergie.fr/",
+      "program": [
+        {
+          "theme": "Économie & finances",
+          "points": [
+            {
+              "text": "Baisser la dépense publique de 200 Md€ par an d'ici la fin du mandat",
+              "source": "https://www.france-vote.fr/actualites/programme-david-lisnard-2027"
+            },
+            {
+              "text": "Retraite avec un étage de capitalisation obligatoire",
+              "source": "https://www.unenouvelleenergie.fr/pour-en-finir-avec-le-sado-reformisme-des-retraites-la-capitalisation/"
+            },
+            {
+              "text": "Non-remplacement de départs dans la fonction publique",
+              "source": "https://isoloir2027.fr/programme/david-lisnard"
+            }
+          ]
+        },
+        {
+          "theme": "Immigration",
+          "points": [
+            {
+              "text": "Diviser par huit les titres de séjour délivrés",
+              "source": "https://isoloir2027.fr/programme/david-lisnard"
+            },
+            {
+              "text": "Fin de l'automaticité du droit du sol",
+              "source": "https://isoloir2027.fr/programme/david-lisnard"
+            },
+            {
+              "text": "Quotas selon les besoins des métiers en tension",
+              "source": "https://isoloir2027.fr/programme/david-lisnard"
+            }
+          ]
+        },
+        {
+          "theme": "Institutions & justice",
+          "points": [
+            {
+              "text": "Quatre référendums : immigration, école, justice, dépense publique",
+              "source": "https://isoloir2027.fr/candidats-presidentielle-2027/david-lisnard"
+            },
+            {
+              "text": "Peines planchers pour les violences contre les dépositaires de l'autorité",
+              "source": "https://www.ifrap.org/comparateurs/presidentielles-2027"
+            }
+          ]
+        },
+        {
+          "theme": "Énergie",
+          "points": [
+            {
+              "text": "EPR2, petits réacteurs modulaires et recherche sur la fusion",
+              "source": "https://www.france-vote.fr/actualites/programme-david-lisnard-2027"
+            }
+          ]
+        }
+      ],
+      "positions": {
+        "retraite-64": {
+          "value": -2,
+          "source": "https://www.france-vote.fr/actualites/programme-david-lisnard-2027",
+          "note": "Capitalisation obligatoire, pas d’abaissement de l’âge"
+        },
+        "isf": {
+          "value": -2,
+          "estimated": true
+        },
+        "dette": {
+          "value": 2,
+          "source": "https://www.france-vote.fr/actualites/programme-david-lisnard-2027",
+          "note": "200 Md€ de baisse de dépenses par an en fin de mandat"
+        },
+        "immigration-baisse": {
+          "value": 2,
+          "source": "https://isoloir2027.fr/programme/david-lisnard",
+          "note": "Diviser par huit les titres de séjour"
+        },
+        "droit-sol": {
+          "value": 1,
+          "source": "https://isoloir2027.fr/programme/david-lisnard",
+          "note": "Fin de l’automaticité du droit du sol"
+        },
+        "regularisation": {
+          "value": -2,
+          "source": "https://isoloir2027.fr/programme/david-lisnard",
+          "note": "Plus de régularisation après une entrée illégale"
+        },
+        "nucleaire": {
+          "value": 2,
+          "source": "https://www.france-vote.fr/actualites/programme-david-lisnard-2027",
+          "note": "EPR2, petits réacteurs modulaires"
+        },
+        "police": {
+          "value": 1,
+          "source": "https://www.ifrap.org/comparateurs/presidentielles-2027",
+          "note": "Peines planchers pour les violences contre les dépositaires de l’autorité"
+        },
+        "services-publics": {
+          "value": -2,
+          "source": "https://isoloir2027.fr/programme/david-lisnard",
+          "note": "Non-remplacement de départs dans la fonction publique"
+        },
+        "capitalisation": {
+          "value": 2,
+          "source": "https://www.unenouvelleenergie.fr/pour-en-finir-avec-le-sado-reformisme-des-retraites-la-capitalisation/",
+          "note": "Étage de capitalisation obligatoire et collective"
+        },
+        "regroupement-familial": {
+          "value": 2,
+          "source": "https://isoloir2027.fr/programme/david-lisnard",
+          "note": "Faire primer la maîtrise de l’immigration sur le regroupement familial"
+        },
+        "32-heures": {
+          "value": -2,
+          "estimated": true
+        },
+        "primaute-droit": {
+          "value": 1,
+          "source": "https://isoloir2027.fr/programme/david-lisnard",
+          "note": "Référendum pour faire primer la maîtrise de l’immigration"
+        },
+        "cannabis": {
+          "value": -2,
+          "source": "https://www.unenouvelleenergie.fr/notre-programme/securite/",
+          "note": "Déduit de sa lutte contre le narcotrafic"
+        },
+        "rsa-activite": {
+          "value": 2,
+          "source": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/"
+        },
+        "signes-religieux": {
+          "value": 1,
+          "source": "https://www.unenouvelleenergie.fr/david-lisnard/",
+          "note": "Premier maire à prendre un arrêté anti-burkini"
+        },
+        "loyers": {
+          "value": -2,
+          "source": "https://www.unenouvelleenergie.fr/david-lisnard-face-a-la-crise-du-logement-il-est-temps-de-briser-cette-spirale-infernale/"
+        },
+        "ame": {
+          "value": 2,
+          "source": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+          "note": "Remplacer l’AME par une aide d’urgence"
+        },
+        "heritage": {
+          "value": -2,
+          "source": "https://www.unenouvelleenergie.fr/notre-programme/economie/",
+          "note": "Supprimer les taxes sur la fortune et les successions"
+        },
+        "cotisations-patronales": {
+          "value": 2,
+          "source": "https://www.unenouvelleenergie.fr/reussir-une-nouvelle-ambition-francaise/"
+        },
+        "nationalisations": {
+          "value": -2,
+          "source": "https://www.unenouvelleenergie.fr/notre-programme/"
+        },
+        "centres-sante": {
+          "value": -1,
+          "source": "https://www.unenouvelleenergie.fr/notre-programme/sante/"
+        },
+        "service-national": {
+          "value": 2,
+          "source": "https://www.unenouvelleenergie.fr/une-experience-formatrice-quil-ne-faut-pas-idealiser-david-lisnard-raconte-son-service-militaire/",
+          "note": "Pour un retour du service militaire"
+        }
+      }
+    },
+    {
+      "id": "attal",
+      "name": "Gabriel Attal",
+      "party": "Renaissance",
+      "color": "#E3A626",
+      "website": "https://attalpresident.fr/",
+      "programUrl": "https://attalpresident.fr/programme",
+      "program": [
+        {
+          "theme": "Économie & social",
+          "points": [
+            {
+              "text": "Supprimer l'âge légal : retraite selon la durée de cotisation",
+              "source": "https://droits-allocations.org/reforme-retraites-attal-2027-systeme-universel-sans-age-legal"
+            },
+            {
+              "text": "1 000 € versés à chaque naissance sur un compte retraite",
+              "source": "https://droits-allocations.org/reforme-retraites-attal-2027-systeme-universel-sans-age-legal"
+            },
+            {
+              "text": "13e mois pour tous et nouveau code du travail",
+              "source": "https://www.cnews.fr/france/2026-04-30/quotas-dimmigration-13e-mois-pour-tous-nouveau-code-du-travail-cooperation-avec"
+            }
+          ]
+        },
+        {
+          "theme": "Immigration",
+          "points": [
+            {
+              "text": "Quotas d'immigration votés chaque année par le Parlement",
+              "source": "https://www.cnews.fr/france/2026-04-30/quotas-dimmigration-13e-mois-pour-tous-nouveau-code-du-travail-cooperation-avec"
+            },
+            {
+              "text": "Système à points inspiré du Canada, regroupement familial réduit",
+              "source": "https://attalpresident.fr/programme/frontieres"
+            }
+          ]
+        },
+        {
+          "theme": "International & défense",
+          "points": [
+            {
+              "text": "Soutenir l'Ukraine « sans relâche »",
+              "source": "https://attalpresident.fr/programme/frontieres"
+            },
+            {
+              "text": "Amplifier le réarmement, soutien à la « dissuasion nucléaire avancée »",
+              "source": "https://attalpresident.fr/programme/frontieres"
+            },
+            {
+              "text": "Droits de douane ciblés contre les surcapacités chinoises",
+              "source": "https://attalpresident.fr/programme/frontieres"
+            }
+          ]
+        },
+        {
+          "theme": "Société",
+          "points": [
+            {
+              "text": "Favorable à l'aide à mourir",
+              "source": "https://www.france-vote.fr/candidats/gabriel-attal"
+            }
+          ]
+        }
+      ],
+      "positions": {
+        "retraite-64": {
+          "value": -1,
+          "source": "https://droits-allocations.org/reforme-retraites-attal-2027-systeme-universel-sans-age-legal",
+          "note": "Suppression de l’âge légal, système à la durée de cotisation"
+        },
+        "immigration-baisse": {
+          "value": 1,
+          "source": "https://attalpresident.fr/programme/frontieres",
+          "note": "« Accueillir moins pour accueillir mieux », système à points"
+        },
+        "nucleaire": {
+          "value": 2,
+          "estimated": true
+        },
+        "europe-integration": {
+          "value": 2,
+          "source": "https://attalpresident.fr/programme/frontieres",
+          "note": "Investissements européens communs « sans attendre l’accord unanime des 27 »"
+        },
+        "ukraine": {
+          "value": 2,
+          "source": "https://www.civiqo.fr/presidentielle-2027/positions/ukraine",
+          "note": "« Continuer sans relâche à soutenir l’Ukraine »"
+        },
+        "defense-budget": {
+          "value": 2,
+          "source": "https://attalpresident.fr/programme/frontieres",
+          "note": "« Amplifier ce réarmement »"
+        },
+        "proportionnelle": {
+          "value": 1,
+          "source": "https://www.france-vote.fr/candidats/gabriel-attal",
+          "note": "Une dose de proportionnelle"
+        },
+        "fin-de-vie": {
+          "value": 2,
+          "source": "https://www.france-vote.fr/candidats/gabriel-attal"
+        },
+        "agriculture-normes": {
+          "value": 1,
+          "estimated": true
+        },
+        "capitalisation": {
+          "value": 1,
+          "source": "https://droits-allocations.org/reforme-retraites-attal-2027-systeme-universel-sans-age-legal",
+          "note": "1 000 € versés à la naissance sur un compte retraite bloqué"
+        },
+        "otan": {
+          "value": -2,
+          "estimated": true
+        },
+        "regroupement-familial": {
+          "value": 1,
+          "source": "https://attalpresident.fr/programme/frontieres",
+          "note": "Regroupement familial « mieux encadré » et en baisse"
+        },
+        "dissuasion-europe": {
+          "value": 1,
+          "source": "https://attalpresident.fr/programme/frontieres",
+          "note": "Soutien à la « dissuasion nucléaire avancée »"
+        },
+        "primaute-droit": {
+          "value": -2,
+          "estimated": true
+        },
+        "nouvelle-republique": {
+          "value": -2,
+          "estimated": true
+        },
+        "cannabis": {
+          "value": -1,
+          "source": "https://www.publicsenat.fr/actualites/politique/cannabis-attal-favorable-a-un-debat-autour-de-la-legalisation-149169",
+          "note": "Favorable à un débat, pas à la légalisation"
+        },
+        "rsa-activite": {
+          "value": 2,
+          "source": "https://www.vie-publique.fr/discours/292847-declaration-de-politique-generale-gabriel-attal-30012024"
+        },
+        "uniforme": {
+          "value": 1,
+          "source": "https://www.francebleu.fr/infos/education/uniforme-a-l-ecole-ce-que-l-on-sait-sur-l-experimentation-de-grande-ampleur-annoncee-par-gabriel-attal-8411796",
+          "note": "A lancé l’expérimentation"
+        },
+        "signes-religieux": {
+          "value": 1,
+          "source": "https://www.franceinfo.fr/politique/gabriel-attal/gabriel-attal-veut-interdire-le-port-du-voile-pour-les-mineures-de-moins-de-15-ans-et-creer-un-delit-de-communautarisme_7263732.html",
+          "note": "Interdire le voile pour les mineures de moins de 15 ans"
+        },
+        "loyers": {
+          "value": -1,
+          "source": "https://www.vie-publique.fr/discours/293035-gabriel-attal-14022024-annonces-pour-accelerer-construction-de-logements",
+          "note": "« Choc d’offre » plutôt qu’encadrement"
+        },
+        "ame": {
+          "value": -1,
+          "source": "https://www.europe1.fr/sante/gabriel-attal-annonce-une-reforme-de-laide-medicale-detat-avant-lete-4227975",
+          "note": "Réforme, mais refus de la suppression"
+        },
+        "heritage": {
+          "value": -2,
+          "source": "https://www.selexium.com/actualites/elections-legislatives-2024-partis-promettent-supprimer-impot-heritage-direct/",
+          "note": "Programme Renaissance 2024"
+        },
+        "cotisations-patronales": {
+          "value": 2,
+          "source": "https://www.europe1.fr/politique/budget-de-la-securite-sociale-le-bras-de-fer-entre-michel-barnier-et-gabriel-attal-sur-les-cotisations-patronales-4281498"
+        },
+        "nationalisations": {
+          "value": -1,
+          "source": "https://www.publicsenat.fr/actualites/economie/atos-quand-le-gouvernement-sopposait-a-une-nationalisation-des-activites-strategiques-au-parlement"
+        },
+        "centres-sante": {
+          "value": -1,
+          "source": "https://www.cnews.fr/france/2024-04-06/places-luniversite-medecins-etrangers-taxe-lapin-voici-toutes-les-annonces-de",
+          "note": "Privilégie des obligations de garde pour les libéraux"
+        },
+        "service-national": {
+          "value": 2,
+          "source": "https://www.vie-publique.fr/discours/292847-declaration-de-politique-generale-gabriel-attal-30012024",
+          "note": "Généralisation du SNU annoncée en 2024"
+        }
+      }
+    },
+    {
+      "id": "tondelier",
+      "name": "Marine Tondelier",
+      "party": "Les Écologistes",
+      "color": "#3A8C3F",
+      "website": "https://lesecologistes.fr/",
+      "programUrl": "https://lesecologistes.fr/document/6U1S2oqef5fsSsPej3SkeR/vf2-1307-programme.pdf",
+      "program": [
+        {
+          "theme": "Économie & social",
+          "points": [
+            {
+              "text": "Retour à 62 ans, 60 ans pour les carrières longues et métiers pénibles",
+              "source": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/"
+            },
+            {
+              "text": "SMIC à 2 000 € brut",
+              "source": "https://lesecologistes.fr/"
+            },
+            {
+              "text": "ISF climatique, taxe Zucman et tranche d'impôt à 60 %",
+              "source": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/"
+            }
+          ]
+        },
+        {
+          "theme": "Écologie & énergie",
+          "points": [
+            {
+              "text": "Sortie du nucléaire planifiée sur une vingtaine d'années",
+              "source": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/"
+            },
+            {
+              "text": "1 million de voitures électriques en leasing social, 500 000 rénovations par an",
+              "source": "https://lesecologistes.fr/"
+            }
+          ]
+        },
+        {
+          "theme": "Santé",
+          "points": [
+            {
+              "text": "2 000 nouveaux centres de santé",
+              "source": "https://lesecologistes.fr/"
+            }
+          ]
+        },
+        {
+          "theme": "Institutions",
+          "points": [
+            {
+              "text": "« Première République écologique et citoyenne »",
+              "source": "https://www.france24.com/fr/info-en-continu/20260713-2027-les-ecologistes-veulent-instaurer-la-premi%C3%A8re-r%C3%A9publique-%C3%A9cologique-et-citoyenne"
+            },
+            {
+              "text": "Proportionnelle intégrale",
+              "source": "https://www.france-vote.fr/actualites/programme-marine-tondelier-2027"
+            },
+            {
+              "text": "RIC propositionnel ou abrogatif",
+              "source": "https://label.ric-france.fr/comparatif-des-candidats-avec-le-ric-a-la-presidentielle-2027"
+            }
+          ]
+        },
+        {
+          "theme": "International",
+          "points": [
+            {
+              "text": "Soutien militaire, économique et diplomatique à l'Ukraine",
+              "source": "https://www.civiqo.fr/presidentielle-2027/positions/ukraine"
+            }
+          ]
+        }
+      ],
+      "positions": {
+        "retraite-64": {
+          "value": 2,
+          "source": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
+          "note": "Retour à 62 ans, 60 ans pour carrières longues et métiers pénibles"
+        },
+        "smic": {
+          "value": 2,
+          "source": "https://lesecologistes.fr/",
+          "note": "SMIC à 2 000 € brut"
+        },
+        "isf": {
+          "value": 2,
+          "source": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
+          "note": "ISF climatique et taxe Zucman"
+        },
+        "dette": {
+          "value": -1,
+          "estimated": true
+        },
+        "immigration-baisse": {
+          "value": -2,
+          "estimated": true
+        },
+        "droit-sol": {
+          "value": -2,
+          "estimated": true
+        },
+        "regularisation": {
+          "value": 2,
+          "source": "https://www.senspo.fr/elections/2027/presidentielle/doctrines/fr-eelv",
+          "note": "Régularisation des sans-papiers (doctrine du parti)"
+        },
+        "nucleaire": {
+          "value": -2,
+          "source": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
+          "note": "Fin des programmes EPR2 et SMR, sortie sur environ 20 ans"
+        },
+        "climat-priorite": {
+          "value": 2,
+          "source": "https://www.france-vote.fr/actualites/programme-marine-tondelier-2027"
+        },
+        "europe-integration": {
+          "value": 1,
+          "estimated": true
+        },
+        "ukraine": {
+          "value": 2,
+          "source": "https://www.civiqo.fr/presidentielle-2027/positions/ukraine",
+          "note": "« Soutenue, sans relâche, sur les plans militaire, économique et diplomatique »"
+        },
+        "proportionnelle": {
+          "value": 2,
+          "source": "https://www.france-vote.fr/actualites/programme-marine-tondelier-2027",
+          "note": "Proportionnelle intégrale"
+        },
+        "ric": {
+          "value": 1,
+          "source": "https://label.ric-france.fr/comparatif-des-candidats-avec-le-ric-a-la-presidentielle-2027",
+          "note": "RIC propositionnel ou abrogatif, avec contrôle de constitutionnalité"
+        },
+        "fin-de-vie": {
+          "value": 2,
+          "estimated": true
+        },
+        "services-publics": {
+          "value": 2,
+          "estimated": true
+        },
+        "agriculture-normes": {
+          "value": -2,
+          "source": "https://www.senspo.fr/elections/2027/presidentielle/doctrines/fr-eelv",
+          "note": "Interdiction des pesticides les plus dangereux"
+        },
+        "capitalisation": {
+          "value": -2,
+          "source": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
+          "note": "Refus de toute capitalisation"
+        },
+        "regroupement-familial": {
+          "value": -2,
+          "estimated": true
+        },
+        "thermique-2035": {
+          "value": 2,
+          "estimated": true
+        },
+        "eolien": {
+          "value": 2,
+          "estimated": true
+        },
+        "nouvelle-republique": {
+          "value": 2,
+          "source": "https://www.france24.com/fr/info-en-continu/20260713-2027-les-ecologistes-veulent-instaurer-la-premi%C3%A8re-r%C3%A9publique-%C3%A9cologique-et-citoyenne",
+          "note": "« Première République écologique et citoyenne »"
+        },
+        "prix-planchers": {
+          "value": 2,
+          "estimated": true
+        },
+        "justice-mineurs": {
+          "value": -2,
+          "estimated": true
+        },
+        "cannabis": {
+          "value": 2,
+          "source": "https://lesecologistes.fr/pages/6ImK65GKUnvibm33WGkjkj/projet-2027",
+          "note": "Légaliser et encadrer production, vente et consommation"
+        },
+        "rsa-activite": {
+          "value": -2,
+          "source": "https://lesecologistes.fr/pages/6ImK65GKUnvibm33WGkjkj/projet-2027",
+          "note": "Supprimer la contrepartie de 15 heures"
+        },
+        "signes-religieux": {
+          "value": -2,
+          "source": "https://lesecologistes.fr/pages/6ImK65GKUnvibm33WGkjkj/projet-2027",
+          "note": "Neutralité pour les agents, pas pour les usagers"
+        },
+        "loyers": {
+          "value": 2,
+          "source": "https://lesecologistes.fr/pages/6ImK65GKUnvibm33WGkjkj/projet-2027",
+          "note": "Généraliser l’encadrement des loyers"
+        },
+        "ame": {
+          "value": -2,
+          "source": "https://lesecologistes.fr/pages/6ImK65GKUnvibm33WGkjkj/projet-2027",
+          "note": "Garantir l’accès à l’AME"
+        },
+        "heritage": {
+          "value": 1,
+          "source": "https://lesecologistes.fr/pages/6ImK65GKUnvibm33WGkjkj/projet-2027",
+          "note": "Fiscalité de l’héritage plus progressive"
+        },
+        "cotisations-patronales": {
+          "value": -1,
+          "source": "https://lesecologistes.fr/pages/6ImK65GKUnvibm33WGkjkj/projet-2027",
+          "note": "Supprimer certaines exonérations"
+        },
+        "nationalisations": {
+          "value": 1,
+          "source": "https://lesecologistes.fr/pages/6ImK65GKUnvibm33WGkjkj/projet-2027",
+          "note": "Gestion publique en cas de nécessité"
+        },
+        "centres-sante": {
+          "value": 2,
+          "source": "https://lesecologistes.fr/pages/6ImK65GKUnvibm33WGkjkj/projet-2027",
+          "note": "2 000 centres de santé d’ici 2030"
+        },
+        "service-national": {
+          "value": -2,
+          "source": "https://lesecologistes.fr/pages/6ImK65GKUnvibm33WGkjkj/projet-2027",
+          "note": "Plus de services civiques volontaires"
+        },
+        "uniforme": {
+          "value": -1,
+          "source": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE1439",
+          "note": "Question écrite d’une députée écologiste (2024)"
+        }
+      }
+    },
+    {
+      "id": "roussel",
+      "name": "Fabien Roussel",
+      "party": "Parti communiste français",
+      "color": "#B3192B",
+      "website": "https://www.pcf.fr/",
+      "program": [
+        {
+          "theme": "Économie & social",
+          "points": [
+            {
+              "text": "Retraite à 60 ans",
+              "source": "https://www.france-vote.fr/actualites/programme-fabien-roussel-2027"
+            },
+            {
+              "text": "Semaine de 32 heures sans baisse de salaire",
+              "source": "https://www.elyseescope.com/questions/fabien-roussel-smic-retraite-a-60-ans-32-heures-le-volet-social-du-programm"
+            },
+            {
+              "text": "Hausse générale des salaires et du SMIC",
+              "source": "https://www.france-vote.fr/actualites/programme-fabien-roussel-2027"
+            }
+          ]
+        },
+        {
+          "theme": "Énergie",
+          "points": [
+            {
+              "text": "Nouveaux réacteurs EPR, renationaliser EDF et Engie",
+              "source": "https://www.france-vote.fr/actualites/programme-fabien-roussel-2027"
+            }
+          ]
+        },
+        {
+          "theme": "Sécurité",
+          "points": [
+            {
+              "text": "Police de proximité et fermeté contre les trafics",
+              "source": "https://monvote2027.fr/candidat/roussel"
+            }
+          ]
+        }
+      ],
+      "positions": {
+        "retraite-64": {
+          "value": 2,
+          "source": "https://www.france-vote.fr/actualites/programme-fabien-roussel-2027",
+          "note": "Retour à 60 ans"
+        },
+        "smic": {
+          "value": 2,
+          "source": "https://www.france-vote.fr/actualites/programme-fabien-roussel-2027"
+        },
+        "isf": {
+          "value": 2,
+          "estimated": true
+        },
+        "nucleaire": {
+          "value": 2,
+          "source": "https://www.france-vote.fr/actualites/programme-fabien-roussel-2027",
+          "note": "Nouveaux EPR, renationalisation d’EDF"
+        },
+        "police": {
+          "value": 1,
+          "source": "https://monvote2027.fr/candidat/roussel",
+          "note": "Fermeté et police de proximité"
+        },
+        "proportionnelle": {
+          "value": 2,
+          "estimated": true
+        },
+        "services-publics": {
+          "value": 2,
+          "estimated": true
+        },
+        "capitalisation": {
+          "value": -2,
+          "estimated": true
+        },
+        "32-heures": {
+          "value": 2,
+          "source": "https://www.elyseescope.com/questions/fabien-roussel-smic-retraite-a-60-ans-32-heures-le-volet-social-du-programm",
+          "note": "Semaine de 32 heures sans baisse de salaire"
+        },
+        "cannabis": {
+          "value": -1,
+          "source": "https://www.fabienroussel2022.fr/18_une_nouvelle_politique_sera_mise_en_uvre_concernant_l_usage_des_drogues",
+          "note": "« Dépénalisation oui, légalisation non »"
+        },
+        "rsa-activite": {
+          "value": -2,
+          "source": "https://www.franceinfo.fr/economie/emploi/fabien-roussel-veut-remplacer-le-rsa-par-un-salaire-en-echange-d-un-emploi-ou-d-une-formation-proposes-a-chaque-francais_7205565.html",
+          "note": "Remplacer le RSA par un salaire contre emploi ou formation"
+        },
+        "signes-religieux": {
+          "value": -1,
+          "source": "https://www.pcf74.fr/2026/09/fete-de-l-humanite-2026-discours-de-fabien-roussel.html",
+          "note": "Position sur les usagers pas clairement établie"
+        },
+        "loyers": {
+          "value": 2,
+          "source": "https://www.fabienroussel2022.fr/99_un_plan_national_de_construction_r_novation_et_baisse_des_loyers_sera_labor_pour_que_tous_et_toutes_puissent_acc_der_des_logements_de_qualit"
+        },
+        "ame": {
+          "value": -2,
+          "source": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3213",
+          "note": "Vote des députés PCF contre la loi immigration 2023"
+        },
+        "heritage": {
+          "value": 2,
+          "source": "https://www.oxfamfrance.org/app/uploads/2022/03/Fiche-Fabien-Roussel-PCF.pdf"
+        },
+        "cotisations-patronales": {
+          "value": -2,
+          "source": "https://www.franceinfo.fr/politique/fabien-roussel/tva-sociale-c-est-l-impot-des-laches-attaque-fabien-roussel-secretaire-national-du-pcf_7291131.html"
+        },
+        "nationalisations": {
+          "value": 2,
+          "source": "https://www.usinenouvelle.com/editorial/presidentielle-ce-que-l-on-sait-du-programme-economique-de-fabien-roussel.N1777147"
+        },
+        "centres-sante": {
+          "value": 2,
+          "source": "https://www.fabienroussel2022.fr/la_sante_notre_bien_commun"
+        },
+        "service-national": {
+          "value": -2,
+          "source": "https://www.pcf.fr/non_la_g_n_ralisation_du_snu"
+        }
+      }
+    },
+    {
+      "id": "ruffin",
+      "name": "François Ruffin",
+      "party": "Debout !",
+      "color": "#D9653B",
+      "website": "https://francoisruffin.fr/",
+      "program": [
+        {
+          "theme": "Économie & social",
+          "points": [
+            {
+              "text": "Retraite à 60 ans",
+              "source": "https://monvote2027.fr/candidat/ruffin"
+            },
+            {
+              "text": "SMIC à 1 700 € net",
+              "source": "https://monvote2027.fr/candidat/ruffin"
+            }
+          ]
+        },
+        {
+          "theme": "Énergie",
+          "points": [
+            {
+              "text": "Prolonger les centrales et poursuivre les 6 EPR2",
+              "source": "https://www.france-vote.fr/candidats/francois-ruffin"
+            }
+          ]
+        },
+        {
+          "theme": "Immigration",
+          "points": [
+            {
+              "text": "Régulariser les travailleurs sans papiers",
+              "source": "https://www.france-vote.fr/candidats/francois-ruffin"
+            }
+          ]
+        },
+        {
+          "theme": "Institutions",
+          "points": [
+            {
+              "text": "Référendum d'initiative citoyenne",
+              "source": "https://francoisruffin.fr/ric/"
+            }
+          ]
+        },
+        {
+          "theme": "International",
+          "points": [
+            {
+              "text": "Soutien « mesuré » à l'Ukraine, refus d'un réarmement financé par les dépenses sociales",
+              "source": "https://www.france-vote.fr/candidats/francois-ruffin"
+            }
+          ]
+        }
+      ],
+      "positions": {
+        "retraite-64": {
+          "value": 2,
+          "source": "https://monvote2027.fr/candidat/ruffin",
+          "note": "Retraite à 60 ans"
+        },
+        "smic": {
+          "value": 2,
+          "source": "https://monvote2027.fr/candidat/ruffin",
+          "note": "SMIC à 1 700 € net"
+        },
+        "isf": {
+          "value": 2,
+          "estimated": true
+        },
+        "regularisation": {
+          "value": 2,
+          "source": "https://www.france-vote.fr/candidats/francois-ruffin"
+        },
+        "nucleaire": {
+          "value": 1,
+          "source": "https://www.france-vote.fr/candidats/francois-ruffin",
+          "note": "Prolonger les centrales, poursuivre les 6 EPR2"
+        },
+        "ukraine": {
+          "value": 0,
+          "source": "https://www.france-vote.fr/candidats/francois-ruffin",
+          "note": "Soutien « mesuré »"
+        },
+        "ric": {
+          "value": 2,
+          "source": "https://francoisruffin.fr/ric/"
+        },
+        "services-publics": {
+          "value": 2,
+          "estimated": true
+        },
+        "cannabis": {
+          "value": 1,
+          "source": "https://2017-2022.nosdeputes.fr/15/document/4746",
+          "note": "Cosignature d’une proposition de loi LFI (2021)"
+        },
+        "rsa-activite": {
+          "value": -2,
+          "source": "https://datan.fr/votes/legislature-16/vote_2965"
+        },
+        "signes-religieux": {
+          "value": -1,
+          "source": "https://francoisruffin.fr/ils-veulent-le-faire-disparaitre-de-notre-societe/"
+        },
+        "loyers": {
+          "value": 2,
+          "source": "https://www.debout.fr/notre-manifeste"
+        },
+        "ame": {
+          "value": -2,
+          "source": "https://2017-2022.nosdeputes.fr/15/francois-ruffin/dossier/8987"
+        },
+        "heritage": {
+          "value": 2,
+          "source": "https://www.franceinfo.fr/politique/justice-fiscale-aujourd-hui-c-est-un-combat-fiscal-entre-la-democratie-et-l-oligarchie-affirme-francois-ruffin-depute-debout-de-la-somme_7524913.html"
+        },
+        "cotisations-patronales": {
+          "value": -1,
+          "source": "https://www.nosdeputes.fr/16/francois-ruffin/dossier/538/amendements?page=11"
+        },
+        "nationalisations": {
+          "value": 2,
+          "source": "https://www.franceinfo.fr/economie/industrie/proposition-de-nationalisation-d-arcelor-mittal-quand-le-capital-le-patron-les-actionnaires-refusent-d-investir-on-doit-prendre-le-relais-soutient-francois-ruffin_7626344.html"
+        },
+        "centres-sante": {
+          "value": 2,
+          "source": "https://actu.orange.fr/france/presidentielle-2027-francois-ruffin-lance-sa-campagne-en-se-posant-en-defenseur-des-travailleurs-essentiels-magic-CNT000002oTqjw.html"
+        },
+        "service-national": {
+          "value": -1,
+          "source": "https://lcp.fr/actualites/loi-de-programmation-militaire-le-snu-s-invite-dans-les-debats-a-l-assemblee-190440"
+        }
+      }
+    },
+    {
+      "id": "zemmour",
+      "name": "Éric Zemmour",
+      "party": "Reconquête",
+      "color": "#5B3A8C",
+      "website": "https://www.parti-reconquete.fr/",
+      "program": [
+        {
+          "theme": "Immigration",
+          "points": [
+            {
+              "text": "« Remigration » : expulsion des étrangers délinquants ou au chômage",
+              "source": "https://actu.orange.fr/politique/presidentielle-2027-eric-zemmour-place-l-ia-et-la-remigration-au-centre-du-programme-reconquete-magic-CNT000002rSkIx.html"
+            },
+            {
+              "text": "Suppression du droit du sol",
+              "source": "https://monvote2027.fr/candidat/zemmour"
+            }
+          ]
+        },
+        {
+          "theme": "Économie",
+          "points": [
+            {
+              "text": "Âge légal à 64 ans",
+              "source": "https://www.france-vote.fr/candidats/eric-zemmour"
+            },
+            {
+              "text": "Baisse de la CSG plutôt que hausse du SMIC",
+              "source": "https://www.france-vote.fr/candidats/eric-zemmour"
+            },
+            {
+              "text": "Pas de retour de l'ISF",
+              "source": "https://www.ifrap.org/comparateurs/presidentielles-2027"
+            }
+          ]
+        },
+        {
+          "theme": "Sécurité",
+          "points": [
+            {
+              "text": "Peines planchers pour tous les crimes et délits",
+              "source": "https://www.ifrap.org/comparateurs/presidentielles-2027"
+            }
+          ]
+        },
+        {
+          "theme": "Énergie & numérique",
+          "points": [
+            {
+              "text": "Relance massive du nucléaire, surplus réservé aux infrastructures d'IA",
+              "source": "https://actu.orange.fr/politique/presidentielle-2027-eric-zemmour-place-l-ia-et-la-remigration-au-centre-du-programme-reconquete-magic-CNT000002rSkIx.html"
+            }
+          ]
+        },
+        {
+          "theme": "Europe & défense",
+          "points": [
+            {
+              "text": "Primauté du droit national, Commission européenne remplacée par un secrétariat",
+              "source": "https://votons-2027.fr/candidats/zemmour/programme/europe"
+            },
+            {
+              "text": "Sortie du commandement intégré de l'OTAN, défense à au moins 3 % du PIB",
+              "source": "https://candidats-presidentielle-2027.fr/parti/reconquete"
+            }
+          ]
+        }
+      ],
+      "positions": {
+        "retraite-64": {
+          "value": -1,
+          "source": "https://www.france-vote.fr/candidats/eric-zemmour",
+          "note": "Âge légal à 64 ans"
+        },
+        "smic": {
+          "value": -1,
+          "source": "https://www.france-vote.fr/candidats/eric-zemmour",
+          "note": "Baisse de la CSG plutôt que hausse du SMIC"
+        },
+        "isf": {
+          "value": -2,
+          "source": "https://www.ifrap.org/comparateurs/presidentielles-2027",
+          "note": "Pas de rétablissement de l’ISF"
+        },
+        "immigration-baisse": {
+          "value": 2,
+          "source": "https://actu.orange.fr/politique/presidentielle-2027-eric-zemmour-place-l-ia-et-la-remigration-au-centre-du-programme-reconquete-magic-CNT000002rSkIx.html",
+          "note": "« Remigration »"
+        },
+        "droit-sol": {
+          "value": 2,
+          "source": "https://monvote2027.fr/candidat/zemmour"
+        },
+        "regularisation": {
+          "value": -2,
+          "estimated": true
+        },
+        "nucleaire": {
+          "value": 2,
+          "source": "https://www.france-vote.fr/candidats/eric-zemmour"
+        },
+        "climat-priorite": {
+          "value": -2,
+          "source": "https://www.france-vote.fr/candidats/eric-zemmour",
+          "note": "Contre l’« écologie punitive » et la fin des moteurs thermiques en 2035"
+        },
+        "europe-integration": {
+          "value": -2,
+          "source": "https://votons-2027.fr/candidats/zemmour/programme/europe",
+          "note": "Primauté du droit national, Commission remplacée par un secrétariat"
+        },
+        "ukraine": {
+          "value": -1,
+          "source": "https://www.france-vote.fr/candidats/eric-zemmour",
+          "note": "Plutôt opposé à la poursuite du soutien militaire"
+        },
+        "defense-budget": {
+          "value": 2,
+          "source": "https://candidats-presidentielle-2027.fr/parti/reconquete",
+          "note": "Défense à au moins 3 % du PIB"
+        },
+        "police": {
+          "value": 2,
+          "source": "https://www.ifrap.org/comparateurs/presidentielles-2027",
+          "note": "Peines planchers pour tous les crimes et délits"
+        },
+        "agriculture-normes": {
+          "value": 2,
+          "estimated": true
+        },
+        "otan": {
+          "value": 2,
+          "source": "https://www.france-vote.fr/candidats/eric-zemmour"
+        },
+        "regroupement-familial": {
+          "value": 2,
+          "estimated": true
+        },
+        "32-heures": {
+          "value": -2,
+          "estimated": true
+        },
+        "thermique-2035": {
+          "value": -2,
+          "source": "https://www.france-vote.fr/candidats/eric-zemmour",
+          "note": "Opposé à l’interdiction des véhicules thermiques neufs en 2035"
+        },
+        "eolien": {
+          "value": -2,
+          "source": "https://candidats-presidentielle-2027.fr/parti/reconquete",
+          "note": "Moratoire et démantèlement progressif de l’éolien"
+        },
+        "dissuasion-europe": {
+          "value": -2,
+          "estimated": true
+        },
+        "primaute-droit": {
+          "value": 2,
+          "source": "https://votons-2027.fr/candidats/zemmour/programme/europe",
+          "note": "Faire primer le droit national sur le droit européen"
+        },
+        "justice-mineurs": {
+          "value": 2,
+          "estimated": true
+        },
+        "cannabis": {
+          "value": -1,
+          "source": "https://x.com/zemmoureric/status/1471586684169076736"
+        },
+        "rsa-activite": {
+          "value": 2,
+          "source": "https://www.previssima.fr/actualite/presidentielle-2022-le-programme-deric-zemmour-europe-ecologie-les-verts-en-matiere-de-protection-sociale-infographie.html"
+        },
+        "uniforme": {
+          "value": 2,
+          "source": "https://www.cnews.fr/france/2023-09-10/eric-zemmour-il-est-plus-que-temps-dimposer-luniforme-lecole-1395112"
+        },
+        "signes-religieux": {
+          "value": 2,
+          "source": "https://entrevue.fr/presidentielle-2027/eric-zemmour-veut-aussi-interdire-la-kippa-dans-lespace-public-en-plus-du-voile/",
+          "note": "Interdire voile et kippa dans l’espace public"
+        },
+        "ame": {
+          "value": 2,
+          "source": "https://www.institutmontaigne.org/presidentielle-2022/eric-zemmour/supprimer-laide-medicale-detat-ame/"
+        },
+        "heritage": {
+          "value": -2,
+          "source": "https://www.institutmontaigne.org/presidentielle-2022/eric-zemmour/exonerer-de-droits-de-donation-et-de-succession-les-transmissions-dentreprises-familiales-entre-generations/"
+        },
+        "cotisations-patronales": {
+          "value": 2,
+          "source": "https://www.institutmontaigne.org/presidentielle-2022/eric-zemmour/baisser-les-impots-de-production-de-30-milliards-deuros-supplementaires/"
+        },
+        "nationalisations": {
+          "value": 0,
+          "source": "https://web.archive.org/web/20220427084740/https://programme.ericzemmour.fr/industrie"
+        },
+        "centres-sante": {
+          "value": 1,
+          "source": "https://www.egora.fr/actus-pro/politiques/obligation-de-garde-medecins-salaries-dans-les-deserts-ame-et-ars-aux",
+          "note": "1 000 médecins salariés dans les centres de santé"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan",
+      "name": "Nicolas Dupont-Aignan",
+      "party": "Debout la France",
+      "color": "#4A6FA5",
+      "website": "https://www.debout-la-france.fr/",
+      "programUrl": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "program": [
+        {
+          "theme": "Institutions",
+          "points": [
+            {
+              "text": "RIC sur tous les sujets, y compris constitutionnels",
+              "source": "https://votons-2027.fr/candidats/dupont-aignan/programme"
+            },
+            {
+              "text": "Septennat non renouvelable et référendum révocatoire à mi-mandat",
+              "source": "https://votons-2027.fr/candidats/dupont-aignan/programme"
+            },
+            {
+              "text": "Supprimer les conseils régionaux et le CESE, 500 députés",
+              "source": "https://votons-2027.fr/candidats/dupont-aignan/programme"
+            }
+          ]
+        },
+        {
+          "theme": "Europe & international",
+          "points": [
+            {
+              "text": "Sortir des traités européens et du marché européen de l'électricité",
+              "source": "https://votons-2027.fr/candidats/dupont-aignan/programme"
+            },
+            {
+              "text": "Quitter le commandement intégré de l'OTAN",
+              "source": "https://votons-2027.fr/candidats/dupont-aignan/programme"
+            },
+            {
+              "text": "Mettre fin aux aides à l'Ukraine",
+              "source": "https://www.civiqo.fr/presidentielle-2027/positions/ukraine"
+            }
+          ]
+        },
+        {
+          "theme": "Économie & défense",
+          "points": [
+            {
+              "text": "« Protectionnisme intelligent » pour relocaliser l'industrie",
+              "source": "https://votons-2027.fr/candidats/dupont-aignan/programme"
+            },
+            {
+              "text": "Défense à 2,5 % du PIB",
+              "source": "https://votons-2027.fr/candidats/dupont-aignan/programme"
+            }
+          ]
+        }
+      ],
+      "positions": {
+        "immigration-baisse": {
+          "value": 2,
+          "estimated": true
+        },
+        "nucleaire": {
+          "value": 2,
+          "source": "https://votons-2027.fr/candidats/dupont-aignan/programme",
+          "note": "Relance de la filière nucléaire"
+        },
+        "europe-integration": {
+          "value": -2,
+          "source": "https://votons-2027.fr/candidats/dupont-aignan/programme",
+          "note": "Sortie des traités européens"
+        },
+        "ukraine": {
+          "value": -2,
+          "source": "https://www.civiqo.fr/presidentielle-2027/positions/ukraine",
+          "note": "« Mettre fin aux aides à l’Ukraine »"
+        },
+        "defense-budget": {
+          "value": 1,
+          "source": "https://votons-2027.fr/candidats/dupont-aignan/programme",
+          "note": "Défense à 2,5 % du PIB"
+        },
+        "ric": {
+          "value": 2,
+          "source": "https://votons-2027.fr/candidats/dupont-aignan/programme",
+          "note": "RIC sur tous les sujets"
+        },
+        "otan": {
+          "value": 2,
+          "source": "https://votons-2027.fr/candidats/dupont-aignan/programme"
+        },
+        "primaute-droit": {
+          "value": 2,
+          "source": "https://votons-2027.fr/candidats/dupont-aignan/programme",
+          "note": "Sortie des traités européens"
+        },
+        "uniforme": {
+          "value": 1,
+          "source": "https://www.france24.com/fr/france/20220323-pr%C3%A9sidentielle-que-proposent-les-candidats-en-mati%C3%A8re-d-%C3%A9ducation"
+        },
+        "cannabis": {
+          "value": -2,
+          "source": "https://www.cnews.fr/france/2022-02-01/repression-legalisation-depenalisation-que-pensent-les-candidats-la-presidentielle"
+        },
+        "rsa-activite": {
+          "value": 2,
+          "source": "https://www.franceinfo.fr/economie/emploi/rsa-les-propositions-des-candidats-a-l-election-presidentielle_5038881.html"
+        },
+        "ame": {
+          "value": 2,
+          "source": "https://www.debout-la-france.fr/wp-content/uploads/2022/07/100-Decisions-pour-la-France_VFIN.pdf",
+          "note": "Programme 2022"
+        },
+        "cotisations-patronales": {
+          "value": 1,
+          "source": "https://www.debout-la-france.fr/wp-content/uploads/2022/07/100-Decisions-pour-la-France_VFIN.pdf",
+          "note": "Programme 2022"
+        },
+        "nationalisations": {
+          "value": 2,
+          "source": "https://www.debout-la-france.fr/wp-content/uploads/2022/07/100-Decisions-pour-la-France_VFIN.pdf",
+          "note": "Programme 2022"
+        },
+        "loyers": {
+          "value": -1,
+          "source": "https://www.debout-la-france.fr/wp-content/uploads/2022/07/100-Decisions-pour-la-France_VFIN.pdf",
+          "note": "Programme 2022"
+        },
+        "signes-religieux": {
+          "value": 2,
+          "source": "https://www.debout-la-france.fr/wp-content/uploads/2022/07/100-Decisions-pour-la-France_VFIN.pdf",
+          "note": "Programme 2022"
+        },
+        "service-national": {
+          "value": 2,
+          "source": "https://www.debout-la-france.fr/wp-content/uploads/2022/07/100-Decisions-pour-la-France_VFIN.pdf",
+          "note": "Programme 2022"
+        },
+        "heritage": {
+          "value": -2,
+          "source": "https://www.lafinancepourtous.com/2022/01/31/fiscalite-successorale-le-programme-des-candidats/"
+        }
+      }
+    }
+  ]
+}

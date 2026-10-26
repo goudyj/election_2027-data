@@ -1,0 +1,551 @@
+{
+  "_comment": "Intentions de vote publiées depuis la primaire socialiste (11 octobre 2026). Premier tour : hypothèse principale de chaque sondage (la première testée). Chiffres relevés sur la liste Wikipédia des sondages et vérifiables sur la notice déposée par chaque institut auprès de la Commission des sondages (champ url).",
+  "updatedAt": "2026-10-25",
+  "source": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+  "scope": "depuis la désignation de Raphaël Glucksmann",
+  "otherCandidates": {
+    "arthaud": {
+      "name": "Nathalie Arthaud",
+      "party": "Lutte ouvrière",
+      "color": "#B3001E"
+    }
+  },
+  "firstRound": [
+    {
+      "pollster": "Ipsos",
+      "fieldwork": "21-22 octobre",
+      "endDate": "2026-10-22",
+      "sample": 1500,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10338-pres-iv-ipsos-bva-le-parisien-24-octobre.pdf",
+      "results": {
+        "arthaud": 0.5,
+        "melenchon": 17.0,
+        "roussel": 2.0,
+        "tondelier": 3.5,
+        "glucksmann": 13.0,
+        "attal": 4.0,
+        "philippe": 13.0,
+        "retailleau": 7.5,
+        "dupont-aignan": 1.5,
+        "le-pen": 33.5,
+        "zemmour": 4.5
+      },
+      "media": "Le Parisien"
+    },
+    {
+      "pollster": "OpinionWay",
+      "fieldwork": "21-22 octobre",
+      "endDate": "2026-10-22",
+      "sample": 973,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10333-pres-iv-opinionway-cnews-22-octobre.pdf",
+      "results": {
+        "arthaud": 1.0,
+        "melenchon": 16.0,
+        "roussel": 1.0,
+        "tondelier": 1.0,
+        "glucksmann": 13.0,
+        "attal": 4.0,
+        "philippe": 12.0,
+        "lisnard": 6.0,
+        "retailleau": 6.0,
+        "dupont-aignan": 1.0,
+        "le-pen": 36.0,
+        "zemmour": 4.0
+      },
+      "media": "CNews"
+    },
+    {
+      "pollster": "Harris Interactive (Toluna)",
+      "fieldwork": "19-21 octobre",
+      "endDate": "2026-10-21",
+      "sample": 2094,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10332-pres-iv-toluna-harris-interactive-23-octobre.pdf",
+      "results": {
+        "arthaud": 1.0,
+        "melenchon": 17.0,
+        "roussel": 2.0,
+        "tondelier": 2.0,
+        "glucksmann": 12.0,
+        "philippe": 15.0,
+        "lisnard": 7.0,
+        "retailleau": 4.0,
+        "dupont-aignan": 1.0,
+        "le-pen": 33.0,
+        "zemmour": 5.0
+      }
+    },
+    {
+      "pollster": "Ifop",
+      "fieldwork": "17-19 octobre",
+      "endDate": "2026-10-19",
+      "sample": 1928,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf",
+      "results": {
+        "arthaud": 0.5,
+        "melenchon": 16.5,
+        "roussel": 3.0,
+        "tondelier": 3.0,
+        "glucksmann": 13.5,
+        "attal": 5.0,
+        "philippe": 12.0,
+        "retailleau": 5.0,
+        "dupont-aignan": 2.0,
+        "le-pen": 36.0,
+        "zemmour": 3.5
+      }
+    },
+    {
+      "pollster": "Elabe",
+      "fieldwork": "14-16 octobre",
+      "endDate": "2026-10-16",
+      "sample": 1701,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10324-pres-iv-elabe-17-octobre.pdf",
+      "results": {
+        "arthaud": 1.0,
+        "melenchon": 15.0,
+        "roussel": 1.5,
+        "tondelier": 3.0,
+        "glucksmann": 15.5,
+        "philippe": 16.5,
+        "retailleau": 7.0,
+        "dupont-aignan": 2.5,
+        "le-pen": 32.5,
+        "zemmour": 3.5
+      }
+    },
+    {
+      "pollster": "Cluster17",
+      "fieldwork": "14-15 octobre",
+      "endDate": "2026-10-15",
+      "sample": 1263,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10325-pres-focus-droite-et-centre-cluster17-le-point-18-octobre.pdf",
+      "results": {
+        "arthaud": 0.5,
+        "melenchon": 18.0,
+        "roussel": 1.5,
+        "tondelier": 2.0,
+        "glucksmann": 11.0,
+        "philippe": 17.0,
+        "lisnard": 7.0,
+        "retailleau": 7.0,
+        "dupont-aignan": 2.0,
+        "le-pen": 31.0,
+        "zemmour": 3.0
+      },
+      "media": "Le Point"
+    },
+    {
+      "pollster": "YouGov",
+      "fieldwork": "12-15 octobre",
+      "endDate": "2026-10-15",
+      "sample": 1094,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10323-pres-iv-yougov-le-huffpost-18-octobre.pdf",
+      "results": {
+        "arthaud": 0.0,
+        "melenchon": 15.0,
+        "roussel": 3.0,
+        "tondelier": 6.0,
+        "glucksmann": 12.0,
+        "attal": 6.0,
+        "philippe": 10.0,
+        "retailleau": 6.0,
+        "dupont-aignan": 3.0,
+        "le-pen": 36.0,
+        "zemmour": 3.0
+      },
+      "media": "Le HuffPost"
+    },
+    {
+      "pollster": "OpinionWay",
+      "fieldwork": "13-14 octobre",
+      "endDate": "2026-10-14",
+      "sample": 1043,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10319-pres-iv-opinionway-cnews-15-octobre.pdf",
+      "results": {
+        "arthaud": 1.0,
+        "melenchon": 15.0,
+        "roussel": 1.0,
+        "tondelier": 2.0,
+        "glucksmann": 13.0,
+        "attal": 5.0,
+        "philippe": 12.0,
+        "lisnard": 4.0,
+        "retailleau": 6.0,
+        "dupont-aignan": 1.0,
+        "le-pen": 35.0,
+        "zemmour": 5.0
+      },
+      "media": "CNews"
+    },
+    {
+      "pollster": "OpinionWay (Présitrack)",
+      "fieldwork": "13-14 octobre",
+      "endDate": "2026-10-14",
+      "sample": 1001,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10318-pres-presitrack-v3-opinionway-15-octobre.pdf",
+      "results": {
+        "arthaud": 1.0,
+        "melenchon": 14.0,
+        "roussel": 3.0,
+        "tondelier": 3.0,
+        "glucksmann": 13.0,
+        "attal": 7.0,
+        "philippe": 12.0,
+        "retailleau": 7.0,
+        "dupont-aignan": 2.0,
+        "le-pen": 35.0,
+        "zemmour": 4.0
+      }
+    },
+    {
+      "pollster": "Ifop",
+      "fieldwork": "12-14 octobre",
+      "endDate": "2026-10-14",
+      "sample": 1390,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10314-pres-climat-politique-post-primaire-ps-pp-ifop-lci-14-octobre.pdf",
+      "results": {
+        "arthaud": 0.0,
+        "melenchon": 16.0,
+        "roussel": 2.0,
+        "tondelier": 2.0,
+        "glucksmann": 11.5,
+        "attal": 5.0,
+        "philippe": 13.0,
+        "lisnard": 6.0,
+        "retailleau": 5.0,
+        "dupont-aignan": 1.0,
+        "le-pen": 32.0,
+        "zemmour": 3.0
+      },
+      "media": "LCI"
+    }
+  ],
+  "secondRound": [
+    {
+      "candidates": [
+        "attal",
+        "le-pen"
+      ],
+      "results": [
+        42.0,
+        58.0
+      ],
+      "pollster": "Ifop",
+      "fieldwork": "17-19 octobre",
+      "endDate": "2026-10-19",
+      "sample": 2081,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf"
+    },
+    {
+      "candidates": [
+        "attal",
+        "le-pen"
+      ],
+      "results": [
+        45.0,
+        55.0
+      ],
+      "pollster": "YouGov",
+      "fieldwork": "12-15 octobre",
+      "endDate": "2026-10-15",
+      "sample": 1094,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10323-pres-iv-yougov-le-huffpost-18-octobre.pdf",
+      "media": "Le HuffPost"
+    },
+    {
+      "candidates": [
+        "glucksmann",
+        "le-pen"
+      ],
+      "results": [
+        44.0,
+        56.0
+      ],
+      "pollster": "OpinionWay",
+      "fieldwork": "21-22 octobre",
+      "endDate": "2026-10-22",
+      "sample": 973,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10333-pres-iv-opinionway-cnews-22-octobre.pdf",
+      "media": "CNews"
+    },
+    {
+      "candidates": [
+        "glucksmann",
+        "le-pen"
+      ],
+      "results": [
+        41.0,
+        59.0
+      ],
+      "pollster": "Harris Interactive (Toluna)",
+      "fieldwork": "19-21 octobre",
+      "endDate": "2026-10-21",
+      "sample": 2094,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10332-pres-iv-toluna-harris-interactive-23-octobre.pdf"
+    },
+    {
+      "candidates": [
+        "glucksmann",
+        "le-pen"
+      ],
+      "results": [
+        43.0,
+        57.0
+      ],
+      "pollster": "Ifop",
+      "fieldwork": "17-19 octobre",
+      "endDate": "2026-10-19",
+      "sample": 2081,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf"
+    },
+    {
+      "candidates": [
+        "glucksmann",
+        "le-pen"
+      ],
+      "results": [
+        46.5,
+        53.5
+      ],
+      "pollster": "Elabe",
+      "fieldwork": "14-16 octobre",
+      "endDate": "2026-10-16",
+      "sample": 1701,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10324-pres-iv-elabe-17-octobre.pdf"
+    },
+    {
+      "candidates": [
+        "glucksmann",
+        "le-pen"
+      ],
+      "results": [
+        45.0,
+        55.0
+      ],
+      "pollster": "YouGov",
+      "fieldwork": "12-15 octobre",
+      "endDate": "2026-10-15",
+      "sample": 1094,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10323-pres-iv-yougov-le-huffpost-18-octobre.pdf",
+      "media": "Le HuffPost"
+    },
+    {
+      "candidates": [
+        "glucksmann",
+        "le-pen"
+      ],
+      "results": [
+        44.0,
+        56.0
+      ],
+      "pollster": "OpinionWay",
+      "fieldwork": "13-14 octobre",
+      "endDate": "2026-10-14",
+      "sample": 1043,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10319-pres-iv-opinionway-cnews-15-octobre.pdf",
+      "media": "CNews"
+    },
+    {
+      "candidates": [
+        "melenchon",
+        "le-pen"
+      ],
+      "results": [
+        31.0,
+        69.0
+      ],
+      "pollster": "OpinionWay",
+      "fieldwork": "21-22 octobre",
+      "endDate": "2026-10-22",
+      "sample": 973,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10333-pres-iv-opinionway-cnews-22-octobre.pdf",
+      "media": "CNews"
+    },
+    {
+      "candidates": [
+        "melenchon",
+        "le-pen"
+      ],
+      "results": [
+        30.0,
+        70.0
+      ],
+      "pollster": "Harris Interactive (Toluna)",
+      "fieldwork": "19-21 octobre",
+      "endDate": "2026-10-21",
+      "sample": 2094,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10332-pres-iv-toluna-harris-interactive-23-octobre.pdf"
+    },
+    {
+      "candidates": [
+        "melenchon",
+        "le-pen"
+      ],
+      "results": [
+        32.0,
+        68.0
+      ],
+      "pollster": "Ifop",
+      "fieldwork": "17-19 octobre",
+      "endDate": "2026-10-19",
+      "sample": 2081,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf"
+    },
+    {
+      "candidates": [
+        "melenchon",
+        "le-pen"
+      ],
+      "results": [
+        31.0,
+        69.0
+      ],
+      "pollster": "Elabe",
+      "fieldwork": "14-16 octobre",
+      "endDate": "2026-10-16",
+      "sample": 1701,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10324-pres-iv-elabe-17-octobre.pdf"
+    },
+    {
+      "candidates": [
+        "melenchon",
+        "le-pen"
+      ],
+      "results": [
+        32.0,
+        68.0
+      ],
+      "pollster": "YouGov",
+      "fieldwork": "12-15 octobre",
+      "endDate": "2026-10-15",
+      "sample": 1094,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10323-pres-iv-yougov-le-huffpost-18-octobre.pdf",
+      "media": "Le HuffPost"
+    },
+    {
+      "candidates": [
+        "melenchon",
+        "le-pen"
+      ],
+      "results": [
+        32.0,
+        68.0
+      ],
+      "pollster": "OpinionWay",
+      "fieldwork": "13-14 octobre",
+      "endDate": "2026-10-14",
+      "sample": 1043,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10319-pres-iv-opinionway-cnews-15-octobre.pdf",
+      "media": "CNews"
+    },
+    {
+      "candidates": [
+        "philippe",
+        "le-pen"
+      ],
+      "results": [
+        44.0,
+        56.0
+      ],
+      "pollster": "OpinionWay",
+      "fieldwork": "21-22 octobre",
+      "endDate": "2026-10-22",
+      "sample": 973,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10333-pres-iv-opinionway-cnews-22-octobre.pdf",
+      "media": "CNews"
+    },
+    {
+      "candidates": [
+        "philippe",
+        "le-pen"
+      ],
+      "results": [
+        43.0,
+        57.0
+      ],
+      "pollster": "Harris Interactive (Toluna)",
+      "fieldwork": "19-21 octobre",
+      "endDate": "2026-10-21",
+      "sample": 2094,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10332-pres-iv-toluna-harris-interactive-23-octobre.pdf"
+    },
+    {
+      "candidates": [
+        "philippe",
+        "le-pen"
+      ],
+      "results": [
+        44.0,
+        56.0
+      ],
+      "pollster": "Ifop",
+      "fieldwork": "17-19 octobre",
+      "endDate": "2026-10-19",
+      "sample": 2081,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf"
+    },
+    {
+      "candidates": [
+        "philippe",
+        "le-pen"
+      ],
+      "results": [
+        47.5,
+        52.5
+      ],
+      "pollster": "Elabe",
+      "fieldwork": "14-16 octobre",
+      "endDate": "2026-10-16",
+      "sample": 1701,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10324-pres-iv-elabe-17-octobre.pdf"
+    },
+    {
+      "candidates": [
+        "philippe",
+        "le-pen"
+      ],
+      "results": [
+        48.0,
+        52.0
+      ],
+      "pollster": "YouGov",
+      "fieldwork": "12-15 octobre",
+      "endDate": "2026-10-15",
+      "sample": 1094,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10323-pres-iv-yougov-le-huffpost-18-octobre.pdf",
+      "media": "Le HuffPost"
+    },
+    {
+      "candidates": [
+        "philippe",
+        "le-pen"
+      ],
+      "results": [
+        44.0,
+        56.0
+      ],
+      "pollster": "OpinionWay",
+      "fieldwork": "13-14 octobre",
+      "endDate": "2026-10-14",
+      "sample": 1043,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10319-pres-iv-opinionway-cnews-15-octobre.pdf",
+      "media": "CNews"
+    },
+    {
+      "candidates": [
+        "melenchon",
+        "philippe"
+      ],
+      "results": [
+        34.0,
+        66.0
+      ],
+      "pollster": "YouGov",
+      "fieldwork": "12-15 octobre",
+      "endDate": "2026-10-15",
+      "sample": 1094,
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10323-pres-iv-yougov-le-huffpost-18-octobre.pdf",
+      "media": "Le HuffPost"
+    }
+  ]
+}

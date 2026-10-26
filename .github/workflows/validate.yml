@@ -1,0 +1,20 @@
+name: Valider les JSON
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Syntaxe JSON
+        run: for f in v1/*.json; do jq empty "$f" || { echo "::error file=$f::JSON invalide"; exit 1; }; done
+      - name: Champs principaux
+        run: |
+          jq -e '.candidates | length > 0 and all(.id and .name and .party and .color and .program and .positions)' v1/candidates.json
+          jq -e 'length > 0 and all(.id and .theme and .text)' v1/questions.json
+          jq -e '.updatedAt and .source and .otherCandidates and (.firstRound | length > 0) and (.secondRound | all((.candidates | length) == 2 and (.results | length) == 2))' v1/polls.json
+          jq -e '.firstRoundDate and (.events | length > 0 and all(.id and .date and .title and .category and .source))' v1/calendar.json
+          jq -e '(.sources | length > 0 and all(.id and .name and (.url | startswith("https://")))) and .candidateTerms' v1/news.json

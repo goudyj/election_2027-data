@@ -1,0 +1,81 @@
+{
+  "_comment": "Flux RSS politiques des médias nationaux, choisis pour couvrir le spectre éditorial. candidateTerms : noms cherchés dans les articles pour chaque id de candidat ; un nom de famille seul n’est utilisé que s’il est sans ambiguïté (« Philippe » ou « Roussel » seuls ne le sont pas). Candidat absent : son nom complet est cherché.",
+  "updatedAt": "2026-10-26",
+  "sources": [
+    {
+      "id": "franceinfo",
+      "name": "franceinfo",
+      "url": "https://www.francetvinfo.fr/politique.rss"
+    },
+    {
+      "id": "le-monde",
+      "name": "Le Monde",
+      "url": "https://www.lemonde.fr/politique/rss_full.xml"
+    },
+    {
+      "id": "le-figaro",
+      "name": "Le Figaro",
+      "url": "https://www.lefigaro.fr/rss/figaro_politique.xml"
+    },
+    {
+      "id": "liberation",
+      "name": "Libération",
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/politique/"
+    },
+    {
+      "id": "lexpress",
+      "name": "L'Express",
+      "url": "https://www.lexpress.fr/arc/outboundfeeds/rss/politique.xml"
+    },
+    {
+      "id": "20-minutes",
+      "name": "20 Minutes",
+      "url": "https://www.20minutes.fr/feeds/rss-politique.xml"
+    },
+    {
+      "id": "bfmtv",
+      "name": "BFMTV",
+      "url": "https://www.bfmtv.com/rss/politique/"
+    }
+  ],
+  "candidateTerms": {
+    "le-pen": [
+      "marine le pen"
+    ],
+    "melenchon": [
+      "mélenchon",
+      "melenchon"
+    ],
+    "philippe": [
+      "édouard philippe",
+      "edouard philippe"
+    ],
+    "glucksmann": [
+      "glucksmann"
+    ],
+    "retailleau": [
+      "retailleau"
+    ],
+    "lisnard": [
+      "lisnard"
+    ],
+    "attal": [
+      "attal"
+    ],
+    "tondelier": [
+      "tondelier"
+    ],
+    "roussel": [
+      "fabien roussel"
+    ],
+    "ruffin": [
+      "ruffin"
+    ],
+    "zemmour": [
+      "zemmour"
+    ],
+    "dupont-aignan": [
+      "dupont-aignan"
+    ]
+  }
+}

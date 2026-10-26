@@ -1,0 +1,650 @@
+[
+  {
+    "id": "retraite-64",
+    "theme": "Économie",
+    "pinned": true,
+    "text": "Il faut abaisser l'âge légal de départ à la retraite sous 64 ans.",
+    "context": {
+      "summary": "La réforme de 2023 relève progressivement l'âge légal de départ de 62 à 64 ans. Son application a été suspendue fin 2025, et le sujet reste au cœur de la campagne. Le système français fonctionne par répartition : les cotisations des actifs paient les pensions des retraités.",
+      "pros": [
+        "Les métiers pénibles usent le corps et l'espérance de vie en bonne santé est limitée.",
+        "On peut financer autrement : cotisations, taxation du capital, emploi des seniors."
+      ],
+      "cons": [
+        "Il y a de moins en moins d'actifs pour chaque retraité, ce qui creuse le déficit des retraites.",
+        "La plupart des pays européens ont relevé l'âge de départ, parfois à 67 ans."
+      ]
+    }
+  },
+  {
+    "id": "smic",
+    "theme": "Économie",
+    "text": "Le SMIC doit être augmenté significativement, même si cela pèse sur les entreprises.",
+    "context": {
+      "summary": "Le SMIC est le salaire minimum légal. Il est revalorisé chaque année au moins au niveau de l'inflation. En 2025, il est d'environ 1 800 € brut par mois à temps plein, soit environ 1 430 € net.",
+      "pros": [
+        "Améliore le pouvoir d'achat des plus modestes face à la hausse des prix.",
+        "Plus de salaire, c'est plus de consommation et de cotisations sociales."
+      ],
+      "cons": [
+        "Hausse du coût du travail : risque pour l'emploi peu qualifié et les petites entreprises.",
+        "Tasse les salaires : les salariés juste au-dessus du SMIC ne voient pas forcément de hausse."
+      ]
+    }
+  },
+  {
+    "id": "isf",
+    "theme": "Économie",
+    "pinned": true,
+    "text": "Il faut taxer davantage les très grandes fortunes (ISF, taxe Zucman…).",
+    "context": {
+      "summary": "L'impôt sur la fortune (ISF) a été remplacé en 2018 par l'IFI, qui ne taxe plus que le patrimoine immobilier. La « taxe Zucman », du nom d'un économiste, propose un impôt minimum de 2 % par an sur les patrimoines de plus de 100 millions d'euros.",
+      "pros": [
+        "Les plus grandes fortunes paient proportionnellement moins d'impôts que les classes moyennes, selon plusieurs études.",
+        "Rapporterait des recettes sans toucher la majorité des Français."
+      ],
+      "cons": [
+        "Risque de départ des grandes fortunes et des capitaux à l'étranger.",
+        "Taxer des patrimoines investis dans des entreprises peut obliger à vendre des parts."
+      ]
+    }
+  },
+  {
+    "id": "dette",
+    "theme": "Économie",
+    "pinned": true,
+    "text": "Réduire le déficit public doit être une priorité, quitte à baisser certaines dépenses sociales.",
+    "context": {
+      "summary": "L'État dépense plus qu'il ne gagne chaque année : le déficit tourne autour de 5 % du PIB, au-delà de la règle européenne de 3 %. La dette publique dépasse 110 % du PIB et ses intérêts deviennent l'un des premiers postes du budget.",
+      "pros": [
+        "Les intérêts de la dette réduisent les marges pour financer écoles, hôpitaux ou défense.",
+        "Une dette trop élevée peut faire monter les taux d'emprunt et faire perdre la confiance des marchés."
+      ],
+      "cons": [
+        "Couper dans les dépenses sociales touche d'abord les plus fragiles.",
+        "Réduire trop vite le déficit peut freiner la croissance ; on peut aussi augmenter les recettes."
+      ]
+    }
+  },
+  {
+    "id": "immigration-baisse",
+    "theme": "Immigration",
+    "pinned": true,
+    "text": "Il faut réduire fortement l'immigration légale en France.",
+    "context": {
+      "summary": "La France délivre chaque année plus de 300 000 premiers titres de séjour. Les principaux motifs sont les études, la famille, le travail et la protection humanitaire (asile). Il s'agit ici de l'immigration légale, pas de l'immigration irrégulière.",
+      "pros": [
+        "Les capacités d'accueil (logement, école, intégration) seraient saturées.",
+        "Mieux choisir les profils faciliterait l'intégration."
+      ],
+      "cons": [
+        "Certains secteurs dépendent de travailleurs étrangers (santé, bâtiment, restauration, agriculture).",
+        "Avec une population vieillissante, l'immigration aide à financer le système social."
+      ]
+    }
+  },
+  {
+    "id": "droit-sol",
+    "theme": "Immigration",
+    "text": "Le droit du sol doit être supprimé ou restreint.",
+    "context": {
+      "summary": "En France, naître sur le sol ne suffit pas pour être français. Un enfant né en France de parents étrangers devient français à 18 ans s'il y a vécu au moins 5 ans depuis ses 11 ans, ou plus tôt sur demande. Un enfant né en France d'un parent lui-même né en France est français dès la naissance (« double droit du sol »). Le droit du sol est déjà restreint à Mayotte.",
+      "pros": [
+        "La nationalité devrait reposer sur la filiation ou une démarche volontaire, pas sur le lieu de naissance.",
+        "Réduirait l'attractivité pour l'immigration irrégulière, selon ses partisans."
+      ],
+      "cons": [
+        "Tradition républicaine ancienne, qui favorise l'intégration des enfants qui grandissent en France.",
+        "Créerait des jeunes nés et scolarisés en France mais étrangers dans leur propre pays."
+      ]
+    }
+  },
+  {
+    "id": "regularisation",
+    "theme": "Immigration",
+    "text": "Les travailleurs sans papiers dans les métiers en tension doivent être régularisés.",
+    "context": {
+      "summary": "Des étrangers sans titre de séjour travaillent en France, souvent dans des métiers qui peinent à recruter (bâtiment, restauration, aide à la personne). La loi immigration de 2024 a créé un titre de séjour « métiers en tension », et en 2025 le gouvernement a durci les critères de régularisation au cas par cas.",
+      "pros": [
+        "Ces personnes travaillent déjà : les régulariser leur donne des droits et fait rentrer des cotisations.",
+        "Répond aux besoins de main-d'œuvre des entreprises."
+      ],
+      "cons": [
+        "Encouragerait l'immigration irrégulière en montrant qu'elle finit par être régularisée (« appel d'air »).",
+        "Mieux vaut former les demandeurs d'emploi déjà présents."
+      ]
+    }
+  },
+  {
+    "id": "nucleaire",
+    "theme": "Écologie",
+    "pinned": true,
+    "text": "La France doit construire de nouveaux réacteurs nucléaires.",
+    "context": {
+      "summary": "Le nucléaire produit environ deux tiers de l'électricité française. Le parc vieillit, et la France a lancé en 2022 la construction de 6 nouveaux réacteurs EPR2, avec une option sur 8 de plus. L'EPR de Flamanville a été mis en service en 2024 avec 12 ans de retard.",
+      "pros": [
+        "Électricité très peu émettrice de CO₂, pilotable et produite en France.",
+        "Indépendance énergétique et industrie de pointe."
+      ],
+      "cons": [
+        "Coûts et délais de construction souvent dépassés.",
+        "Déchets radioactifs à gérer sur très long terme et risque d'accident ; les renouvelables sont plus rapides à installer."
+      ]
+    }
+  },
+  {
+    "id": "climat-priorite",
+    "theme": "Écologie",
+    "pinned": true,
+    "text": "La lutte contre le changement climatique justifie des contraintes fortes sur les modes de vie (voiture, avion, alimentation).",
+    "context": {
+      "summary": "La France vise la neutralité carbone en 2050. Les transports sont le premier secteur émetteur de gaz à effet de serre, devant l'agriculture, l'industrie et les bâtiments. La question est de savoir jusqu'où l'État doit imposer des changements de comportement.",
+      "pros": [
+        "Les progrès techniques seuls ne suffiront pas à tenir les objectifs climatiques.",
+        "Plus on attend, plus les dégâts et les coûts d'adaptation seront élevés."
+      ],
+      "cons": [
+        "Les contraintes pèsent surtout sur les ménages modestes et ruraux (souvenir des gilets jaunes).",
+        "La France émet environ 1 % des émissions mondiales : l'effort doit être international."
+      ]
+    }
+  },
+  {
+    "id": "europe-integration",
+    "theme": "Europe & international",
+    "text": "L'Union européenne doit avoir davantage de pouvoirs, y compris en matière de défense.",
+    "context": {
+      "summary": "L'UE décide déjà en matière de commerce, de concurrence ou d'agriculture. La défense reste une compétence nationale, mais l'UE finance de plus en plus des programmes communs d'armement depuis la guerre en Ukraine.",
+      "pros": [
+        "Face aux États-Unis, à la Chine et à la Russie, les pays européens pèsent plus ensemble.",
+        "Mutualiser l'armement réduit les coûts et les doublons."
+      ],
+      "cons": [
+        "Perte de souveraineté : des décisions prises à Bruxelles échappent aux électeurs français.",
+        "Les intérêts des 27 pays divergent souvent, ce qui ralentit les décisions."
+      ]
+    }
+  },
+  {
+    "id": "ukraine",
+    "theme": "Europe & international",
+    "pinned": true,
+    "text": "La France doit maintenir ou renforcer son aide militaire à l'Ukraine.",
+    "context": {
+      "summary": "Depuis l'invasion russe de février 2022, la France fournit à l'Ukraine des armes, des formations et une aide financière, avec ses partenaires européens. Le débat porte sur le niveau de cette aide et sur la recherche d'un cessez-le-feu.",
+      "pros": [
+        "Si la Russie gagne, elle pourrait menacer d'autres pays européens.",
+        "Défendre le principe qu'on ne change pas les frontières par la force."
+      ],
+      "cons": [
+        "Coût élevé pour les finances publiques et les stocks d'armes français.",
+        "Risque d'escalade avec une puissance nucléaire ; certains préfèrent privilégier la négociation."
+      ]
+    }
+  },
+  {
+    "id": "defense-budget",
+    "theme": "Europe & international",
+    "text": "Le budget de la défense doit continuer d'augmenter fortement.",
+    "context": {
+      "summary": "La loi de programmation militaire 2024-2030 prévoit environ 413 milliards d'euros pour les armées. Le budget dépasse 2 % du PIB, et plusieurs candidats veulent aller vers 3 % face à la menace russe et aux incertitudes sur le soutien américain.",
+      "pros": [
+        "Le contexte international s'est durci et les armées manquent de munitions et de matériel.",
+        "Soutient l'industrie de défense française et ses emplois."
+      ],
+      "cons": [
+        "Chaque milliard pour la défense manque ailleurs (santé, école, transition écologique) ou creuse la dette.",
+        "La sécurité passe aussi par la diplomatie."
+      ]
+    }
+  },
+  {
+    "id": "police",
+    "theme": "Sécurité & justice",
+    "pinned": true,
+    "text": "Il faut des peines plus sévères, y compris des peines planchers pour les récidivistes.",
+    "context": {
+      "summary": "Les « peines planchers » imposent une peine minimale automatique, par exemple en cas de récidive. Elles ont existé en France de 2007 à 2014, puis ont été supprimées au nom de l'individualisation des peines par le juge. Les prisons françaises sont surpeuplées.",
+      "pros": [
+        "Message de fermeté et sanction plus prévisible pour les récidivistes.",
+        "Répond à un sentiment d'impunité dans la population."
+      ],
+      "cons": [
+        "Les études sur la période 2007-2014 n'ont pas montré d'effet clair sur la récidive.",
+        "Aggraverait la surpopulation carcérale ; le juge perd sa marge d'appréciation."
+      ]
+    }
+  },
+  {
+    "id": "proportionnelle",
+    "theme": "Institutions",
+    "text": "Les députés doivent être élus à la proportionnelle.",
+    "context": {
+      "summary": "Aujourd'hui, les députés sont élus au scrutin majoritaire à deux tours, circonscription par circonscription. Avec la proportionnelle, chaque parti obtient un nombre de sièges proche de son score national. La France l'a utilisée une fois, en 1986.",
+      "pros": [
+        "L'Assemblée reflète mieux les votes réels des électeurs.",
+        "Pousse les partis à négocier des coalitions, comme dans beaucoup de pays européens."
+      ],
+      "cons": [
+        "Rend plus difficile une majorité stable pour gouverner.",
+        "Affaiblit le lien entre un député et son territoire."
+      ]
+    }
+  },
+  {
+    "id": "ric",
+    "theme": "Institutions",
+    "text": "Il faut instaurer le référendum d'initiative citoyenne (RIC).",
+    "context": {
+      "summary": "Le RIC permettrait aux citoyens, en réunissant assez de signatures, de déclencher eux-mêmes un référendum pour proposer ou abroger une loi, voire révoquer un élu. Il existe aujourd'hui un « référendum d'initiative partagée », mais ses conditions sont si strictes qu'il n'a jamais abouti.",
+      "pros": [
+        "Donne aux citoyens un pouvoir direct entre deux élections.",
+        "Fonctionne en Suisse ou en Italie."
+      ],
+      "cons": [
+        "Risque de décisions émotionnelles ou de remise en cause des droits des minorités.",
+        "Les sujets complexes se prêtent mal à une réponse oui/non."
+      ]
+    }
+  },
+  {
+    "id": "fin-de-vie",
+    "theme": "Société",
+    "text": "La loi sur l'aide à mourir adoptée en 2026 doit être maintenue.",
+    "context": {
+      "summary": "La loi du 18 août 2026 crée un « droit à l'aide à mourir » pour les adultes atteints d'une maladie grave et incurable, en phase avancée, qui en font la demande et souffrent de façon insupportable. Elle doit entrer en application en 2027. Certains candidats veulent l'abroger.",
+      "pros": [
+        "Respecte la liberté de choisir sa fin de vie et évite des souffrances inutiles.",
+        "Encadrée par des conditions strictes et une procédure médicale."
+      ],
+      "cons": [
+        "Crainte de pressions sur les personnes vulnérables ou âgées.",
+        "Les soins palliatifs restent insuffisants et devraient être la priorité."
+      ]
+    }
+  },
+  {
+    "id": "services-publics",
+    "theme": "Société",
+    "text": "Il faut embaucher massivement dans les services publics (hôpital, école).",
+    "context": {
+      "summary": "La France compte environ 5,7 millions d'agents publics (État, collectivités, hôpitaux). L'hôpital et l'école ont des difficultés de recrutement, alors que l'état des finances publiques pousse certains candidats à réduire les effectifs.",
+      "pros": [
+        "Les urgences, les classes surchargées et les déserts médicaux montrent un manque de moyens.",
+        "Les services publics bénéficient à tous, et surtout aux plus modestes."
+      ],
+      "cons": [
+        "Coût élevé et durable pour les finances publiques.",
+        "Le problème viendrait plutôt de l'organisation et de la bureaucratie que du nombre d'agents."
+      ]
+    }
+  },
+  {
+    "id": "agriculture-normes",
+    "theme": "Société",
+    "text": "Il faut alléger les normes environnementales imposées aux agriculteurs.",
+    "context": {
+      "summary": "Les agriculteurs ont manifesté en 2024 contre les normes, la concurrence étrangère et la faiblesse de leurs revenus. La loi Duplomb de 2025 a assoupli certaines règles, mais la réintroduction d'un pesticide a été censurée et une pétition contre la loi a réuni plus de 2 millions de signatures.",
+      "pros": [
+        "Les agriculteurs français subissent des règles plus strictes que leurs concurrents étrangers.",
+        "Moins de paperasse pour une profession en difficulté."
+      ],
+      "cons": [
+        "Risques pour la santé (pesticides), l'eau et la biodiversité.",
+        "Mieux vaut imposer les mêmes normes aux produits importés que baisser les nôtres."
+      ]
+    }
+  },
+  {
+    "id": "capitalisation",
+    "theme": "Économie",
+    "text": "Une partie des retraites doit être financée par capitalisation (épargne placée sur les marchés).",
+    "context": {
+      "summary": "Dans la répartition, les cotisations d'aujourd'hui paient les pensions d'aujourd'hui. Dans la capitalisation, chacun épargne pour sa propre retraite et cette épargne est placée. La France fonctionne surtout par répartition, mais il existe déjà de la capitalisation, comme le PER ou le régime additionnel des fonctionnaires.",
+      "pros": [
+        "Moins dépendant du nombre d'actifs par retraité.",
+        "Finance les entreprises françaises et peut rapporter davantage sur le long terme."
+      ],
+      "cons": [
+        "Les pensions dépendent des marchés financiers, qui peuvent chuter.",
+        "Pendant la transition, il faut payer à la fois les retraites actuelles et sa propre épargne."
+      ]
+    }
+  },
+  {
+    "id": "otan",
+    "theme": "Europe & international",
+    "text": "La France doit quitter le commandement intégré de l'OTAN.",
+    "context": {
+      "summary": "La France est membre de l'OTAN depuis sa création en 1949. Le général de Gaulle l'a fait sortir du commandement militaire intégré en 1966, et Nicolas Sarkozy l'y a fait revenir en 2009. Quitter le commandement ne signifie pas quitter l'Alliance.",
+      "pros": [
+        "Plus d'indépendance vis-à-vis des États-Unis dans les décisions militaires.",
+        "Tradition gaullienne de souveraineté."
+      ],
+      "cons": [
+        "Moins d'influence sur les décisions de l'Alliance, alors que la menace russe augmente.",
+        "Envoie un signal de désunion aux alliés européens."
+      ]
+    }
+  },
+  {
+    "id": "regroupement-familial",
+    "theme": "Immigration",
+    "text": "Le regroupement familial doit être fortement restreint.",
+    "context": {
+      "summary": "Le regroupement familial permet à un étranger installé légalement en France de faire venir son conjoint et ses enfants mineurs, sous conditions de ressources et de logement. Au sens strict, il concerne environ 10 000 à 15 000 personnes par an. L'immigration familiale au sens large, qui inclut les conjoints de Français, est bien plus importante.",
+      "pros": [
+        "Levier pour réduire les flux migratoires et mieux maîtriser l'intégration.",
+        "Les conditions de logement et de ressources sont parfois difficiles à vérifier."
+      ],
+      "cons": [
+        "Vivre en famille est un droit protégé par la Constitution et la Convention européenne des droits de l'homme.",
+        "Séparer les familles nuit à l'intégration."
+      ]
+    }
+  },
+  {
+    "id": "32-heures",
+    "theme": "Économie",
+    "text": "Il faut réduire le temps de travail, par exemple à 32 heures par semaine.",
+    "context": {
+      "summary": "La durée légale du travail est de 35 heures par semaine depuis les lois Aubry (2000). Au-delà, les heures sont payées en heures supplémentaires. Certaines entreprises testent la semaine de 4 jours.",
+      "pros": [
+        "Partager le travail pour réduire le chômage et améliorer la qualité de vie.",
+        "Les gains de productivité permettraient de travailler moins sans perte de salaire."
+      ],
+      "cons": [
+        "Hausse du coût du travail et perte de compétitivité si les salaires sont maintenus.",
+        "Les Français travaillent déjà moins sur une vie que la plupart de leurs voisins."
+      ]
+    }
+  },
+  {
+    "id": "thermique-2035",
+    "theme": "Écologie",
+    "text": "L'interdiction de vendre des voitures thermiques neuves en 2035 doit être maintenue.",
+    "context": {
+      "summary": "Un règlement européen de 2023 prévoit qu'à partir de 2035, les voitures neuves vendues dans l'UE ne devront plus émettre de CO₂, ce qui revient à imposer l'électrique. Les voitures d'occasion restent autorisées. Un assouplissement est en discussion au niveau européen.",
+      "pros": [
+        "Indispensable pour réduire les émissions des transports, premier secteur émetteur.",
+        "Donne de la visibilité aux constructeurs pour investir."
+      ],
+      "cons": [
+        "Les voitures électriques restent plus chères et les bornes manquent dans certaines zones.",
+        "Risque pour l'industrie automobile européenne face à la Chine."
+      ]
+    }
+  },
+  {
+    "id": "eolien",
+    "theme": "Écologie",
+    "text": "Il faut continuer à développer les éoliennes terrestres.",
+    "context": {
+      "summary": "L'éolien produit environ un dixième de l'électricité française. Les éoliennes terrestres sont rapides à installer mais contestées localement. Certains candidats proposent un moratoire, voire leur démantèlement.",
+      "pros": [
+        "Électricité renouvelable, rapide à déployer et de moins en moins chère.",
+        "Complète le nucléaire pour répondre à la hausse de la consommation électrique."
+      ],
+      "cons": [
+        "Production intermittente qui dépend du vent.",
+        "Impact sur les paysages, la biodiversité et l'acceptation locale."
+      ]
+    }
+  },
+  {
+    "id": "dissuasion-europe",
+    "theme": "Europe & international",
+    "text": "La France doit étendre la protection de sa dissuasion nucléaire à ses partenaires européens.",
+    "context": {
+      "summary": "La France est le seul pays de l'UE à disposer de l'arme nucléaire. Depuis 2025, le débat sur une « dimension européenne » de cette dissuasion s'est ouvert, face aux doutes sur la protection américaine. La décision d'utiliser l'arme resterait au président français.",
+      "pros": [
+        "Renforce la sécurité de toute l'Europe face à la Russie.",
+        "Donne à la France un rôle central dans la défense européenne."
+      ],
+      "cons": [
+        "Risque d'entraîner la France dans des conflits qui ne la menacent pas directement.",
+        "La dissuasion est la garantie ultime de la souveraineté nationale et ne se partage pas."
+      ]
+    }
+  },
+  {
+    "id": "primaute-droit",
+    "theme": "Institutions",
+    "text": "Le droit français doit primer sur le droit européen.",
+    "context": {
+      "summary": "Aujourd'hui, les traités européens s'imposent aux lois françaises (article 55 de la Constitution), et la Cour de justice de l'UE affirme la primauté du droit européen. Changer cela nécessiterait une révision de la Constitution et créerait des conflits avec l'UE.",
+      "pros": [
+        "Les électeurs français doivent avoir le dernier mot, notamment sur l'immigration.",
+        "Les juges européens limitent la capacité du Parlement à décider."
+      ],
+      "cons": [
+        "Une Europe où chaque pays choisit les règles qu'il applique ne peut plus fonctionner.",
+        "Risque de conflit majeur avec l'UE, voire de sortie de fait (« Frexit »)."
+      ]
+    }
+  },
+  {
+    "id": "nouvelle-republique",
+    "theme": "Institutions",
+    "text": "Il faut changer de Constitution et passer à une nouvelle République.",
+    "context": {
+      "summary": "La Ve République date de 1958. Elle donne au président des pouvoirs importants. Certains candidats proposent une assemblée constituante pour écrire une nouvelle Constitution, avec un président aux pouvoirs réduits et un Parlement renforcé.",
+      "pros": [
+        "Mettre fin à la concentration des pouvoirs autour du président.",
+        "Mieux associer les citoyens aux décisions."
+      ],
+      "cons": [
+        "La Ve République a apporté une stabilité que la IVe n'avait pas.",
+        "Long processus incertain, alors que les urgences sont ailleurs."
+      ]
+    }
+  },
+  {
+    "id": "prix-planchers",
+    "theme": "Société",
+    "text": "L'État doit garantir des prix minimums aux agriculteurs pour leurs produits.",
+    "context": {
+      "summary": "Les prix agricoles sont fixés par les négociations entre agriculteurs, industriels et grande distribution. Les lois EGalim ont tenté de mieux protéger les revenus agricoles, mais beaucoup d'agriculteurs vendent encore en dessous de leurs coûts de production.",
+      "pros": [
+        "Garantit un revenu décent aux agriculteurs.",
+        "Protège la souveraineté alimentaire."
+      ],
+      "cons": [
+        "Risque de hausse des prix pour les consommateurs.",
+        "Difficile à appliquer face aux produits importés moins chers."
+      ]
+    }
+  },
+  {
+    "id": "justice-mineurs",
+    "theme": "Sécurité & justice",
+    "text": "Les mineurs auteurs de crimes graves doivent pouvoir être jugés comme des majeurs.",
+    "context": {
+      "summary": "L'« excuse de minorité » réduit les peines encourues par les mineurs, en général de moitié. Un juge peut déjà l'écarter pour les 16-18 ans dans certains cas. La justice des mineurs privilégie l'éducation et la réinsertion.",
+      "pros": [
+        "Certains mineurs commettent des actes très graves et l'impunité ressentie est forte.",
+        "Les réseaux de trafic utilisent des mineurs parce qu'ils sont moins punis."
+      ],
+      "cons": [
+        "Un mineur n'a pas la même maturité qu'un adulte : priorité à l'éducation.",
+        "La prison augmente le risque de récidive chez les jeunes."
+      ]
+    }
+  },
+  {
+    "id": "cannabis",
+    "theme": "Société",
+    "text": "Il faut légaliser le cannabis récréatif, avec une vente encadrée par l'État.",
+    "context": {
+      "summary": "En France, consommer du cannabis est interdit et puni, notamment par une amende forfaitaire de 200 € depuis 2020. La France compte pourtant parmi les pays européens où l'on en consomme le plus. Plusieurs pays (Canada, Allemagne en partie, Malte) l'ont légalisé.",
+      "pros": [
+        "Prive les réseaux de trafic d'une partie de leurs revenus.",
+        "Permet de contrôler la qualité, d'interdire la vente aux mineurs et de prélever des taxes."
+      ],
+      "cons": [
+        "Risques pour la santé, en particulier pour le cerveau des jeunes.",
+        "Pourrait banaliser la consommation sans faire disparaître le marché noir."
+      ]
+    }
+  },
+  {
+    "id": "rsa-activite",
+    "theme": "Économie",
+    "text": "Le RSA doit rester conditionné à des heures d'activité obligatoires.",
+    "context": {
+      "summary": "Le RSA (revenu de solidarité active) est une aide d'environ 650 € par mois pour une personne seule sans ressources. Depuis 2025, les bénéficiaires doivent en principe effectuer 15 heures d'activité par semaine (formation, stage, accompagnement), avec des exceptions.",
+      "pros": [
+        "Favorise le retour vers l'emploi et évite l'enfermement dans l'assistance.",
+        "Contrepartie jugée juste par une partie des Français qui financent l'aide."
+      ],
+      "cons": [
+        "Risque d'exclure les plus fragiles, qui renoncent à l'aide (non-recours).",
+        "Les moyens d'accompagnement manquent pour proposer des activités utiles à tous."
+      ]
+    }
+  },
+  {
+    "id": "uniforme",
+    "theme": "Société",
+    "text": "L'uniforme scolaire doit être rendu obligatoire dans les écoles.",
+    "context": {
+      "summary": "Il n'y a pas d'uniforme obligatoire dans l'école publique française. Une expérimentation a été lancée en 2024 dans une centaine d'établissements volontaires.",
+      "pros": [
+        "Atténue les différences sociales visibles et la pression des marques.",
+        "Renforce le sentiment d'appartenance et le respect du cadre scolaire."
+      ],
+      "cons": [
+        "Coût pour les familles ou les collectivités.",
+        "Aucune preuve solide d'effet sur les résultats ou le climat scolaire."
+      ]
+    }
+  },
+  {
+    "id": "signes-religieux",
+    "theme": "Société",
+    "text": "Le port de signes religieux ostensibles doit être interdit dans les services publics, y compris pour les usagers.",
+    "context": {
+      "summary": "La laïcité impose la neutralité aux agents publics, mais pas aux usagers. Les signes religieux ostensibles sont interdits pour les élèves à l'école depuis 2004, et le voile intégral est interdit dans l'espace public depuis 2010. La question porte sur les usagers des mairies, hôpitaux ou universités.",
+      "pros": [
+        "Renforcerait la neutralité de l'espace public et la laïcité.",
+        "Limiterait les pressions communautaires, selon ses partisans."
+      ],
+      "cons": [
+        "Restreint la liberté religieuse de citoyens qui ne représentent pas l'État.",
+        "Risque d'exclure certaines personnes, notamment des femmes voilées, des services publics."
+      ]
+    }
+  },
+  {
+    "id": "loyers",
+    "theme": "Santé & logement",
+    "text": "Il faut encadrer strictement les loyers dans les grandes villes.",
+    "context": {
+      "summary": "L'encadrement des loyers fixe un loyer maximum selon le quartier et le type de logement. Il est appliqué à titre expérimental dans plusieurs grandes villes (Paris, Lyon, Lille, Bordeaux…) depuis la loi ELAN de 2018.",
+      "pros": [
+        "Protège le pouvoir d'achat des locataires dans les villes chères.",
+        "Limite la spéculation immobilière."
+      ],
+      "cons": [
+        "Peut décourager les propriétaires de louer et réduire l'offre de logements.",
+        "Ne règle pas le manque de construction, cause principale de la hausse des prix."
+      ]
+    }
+  },
+  {
+    "id": "ame",
+    "theme": "Immigration",
+    "text": "L'aide médicale d'État (AME) pour les sans-papiers doit être supprimée ou réduite aux urgences.",
+    "context": {
+      "summary": "L'AME prend en charge les soins des étrangers en situation irrégulière présents en France depuis plus de 3 mois, sous conditions de ressources. Elle coûte un peu plus d'un milliard d'euros par an, soit moins de 1 % des dépenses de l'Assurance maladie.",
+      "pros": [
+        "Ne pas offrir de couverture santé à des personnes en situation irrégulière.",
+        "Réduirait une dépense publique et un facteur d'attractivité, selon ses partisans."
+      ],
+      "cons": [
+        "Soigner tôt évite des urgences plus graves et plus coûteuses, et les épidémies.",
+        "Les médecins rappellent leur devoir de soigner sans distinction."
+      ]
+    }
+  },
+  {
+    "id": "heritage",
+    "theme": "Économie",
+    "text": "Il faut taxer davantage les très gros héritages.",
+    "context": {
+      "summary": "Chaque enfant peut recevoir 100 000 € de chacun de ses parents sans payer de droits de succession. Au-delà, le taux augmente par tranches jusqu'à 45 %. De nombreuses niches permettent de réduire ces droits sur les gros patrimoines.",
+      "pros": [
+        "Les héritages creusent les inégalités : on est riche de plus en plus par naissance que par travail.",
+        "Rapporterait des recettes sans toucher les petites successions."
+      ],
+      "cons": [
+        "Le patrimoine a déjà été taxé du vivant de la personne.",
+        "Peut obliger à vendre des entreprises familiales pour payer les droits."
+      ]
+    }
+  },
+  {
+    "id": "cotisations-patronales",
+    "theme": "Économie",
+    "text": "Il faut baisser les cotisations patronales pour soutenir les entreprises.",
+    "context": {
+      "summary": "Les cotisations patronales financent la Sécurité sociale. L'État accorde déjà des dizaines de milliards d'euros d'allègements par an, surtout sur les bas salaires, pour réduire le coût du travail.",
+      "pros": [
+        "Rend les entreprises plus compétitives et favorise l'embauche.",
+        "Le coût du travail en France est parmi les plus élevés d'Europe."
+      ],
+      "cons": [
+        "Prive la Sécurité sociale de recettes, ou coûte cher à l'État qui compense.",
+        "Les effets sur l'emploi des allègements déjà en place sont discutés."
+      ]
+    }
+  },
+  {
+    "id": "nationalisations",
+    "theme": "Économie",
+    "text": "L'État doit nationaliser des secteurs stratégiques (énergie, autoroutes, transports).",
+    "context": {
+      "summary": "L'État possède déjà 100 % d'EDF et de la SNCF. Les autoroutes sont gérées par des sociétés privées dans le cadre de concessions qui arrivent à échéance à partir de 2031. Nationaliser revient à reprendre le contrôle d'entreprises privées, en indemnisant leurs actionnaires.",
+      "pros": [
+        "Les secteurs vitaux devraient servir l'intérêt général plutôt que des dividendes.",
+        "Protège contre les rachats étrangers et garantit les investissements."
+      ],
+      "cons": [
+        "Coûte très cher à l'État pour racheter les entreprises.",
+        "L'État n'est pas toujours un bon gestionnaire."
+      ]
+    }
+  },
+  {
+    "id": "centres-sante",
+    "theme": "Santé & logement",
+    "text": "Les déserts médicaux doivent être traités par des centres de santé publics avec des médecins salariés.",
+    "context": {
+      "summary": "Une grande partie des Français vit dans une zone où il est difficile de trouver un médecin. Les médecins libéraux choisissent librement où s'installer. Certaines collectivités créent des centres de santé où les médecins sont salariés.",
+      "pros": [
+        "Ramène des médecins là où le libéral ne vient pas.",
+        "Beaucoup de jeunes médecins préfèrent le salariat aux contraintes du libéral."
+      ],
+      "cons": [
+        "Coûte cher aux collectivités et à l'État.",
+        "Ne crée pas de médecins supplémentaires : ils sont pris ailleurs."
+      ]
+    }
+  },
+  {
+    "id": "service-national",
+    "theme": "Société",
+    "text": "Un service national (militaire ou civique) doit devenir obligatoire pour les jeunes.",
+    "context": {
+      "summary": "Le service militaire obligatoire a été suspendu en 1997. Le Service national universel (SNU), créé en 2019, est resté volontaire. Face à la menace russe, plusieurs pays européens rétablissent une forme de service, et la France a lancé en 2025 un service militaire volontaire.",
+      "pros": [
+        "Renforce la cohésion nationale et le brassage social.",
+        "Prépare une réserve mobilisable en cas de crise."
+      ],
+      "cons": [
+        "Coût très élevé et besoin d'encadrement que l'armée n'a pas.",
+        "Une obligation imposée aux jeunes, alors que le volontariat fonctionne mieux."
+      ]
+    }
+  }
+]
